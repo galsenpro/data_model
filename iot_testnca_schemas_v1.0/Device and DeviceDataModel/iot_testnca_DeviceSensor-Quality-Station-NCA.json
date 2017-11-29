@@ -1,0 +1,326 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "GBOX000014"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "DeviceSensor"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "GBOX000014"
+      ]
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "airPollution"
+        ]
+      }
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "postalCode": {
+          "$id": "/properties/address/properties/postalCode",
+          "type": "string",
+          "title": "The Postalcode Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "06200"
+          ]
+        },
+        "addressLocality": {
+          "$id": "/properties/address/properties/addressLocality",
+          "type": "string",
+          "title": "The Addresslocality Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "NICE"
+          ]
+        },
+        "addressRegion": {
+          "$id": "/properties/address/properties/addressRegion",
+          "type": "string",
+          "title": "The Addressregion Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Alpes Maritimes"
+          ]
+        },
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Av Cyrille Besset"
+          ]
+        }
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.15521240234375
+            ]
+          }
+        }
+      }
+    },
+    "brandName": {
+      "$id": "/properties/brandName",
+      "type": "string",
+      "title": "The Brandname Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "modelName": {
+      "$id": "/properties/modelName",
+      "type": "string",
+      "title": "The Modelname Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "manufactureName": {
+      "$id": "/properties/manufactureName",
+      "type": "string",
+      "title": "The Manufacturename Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "dateManufactured": {
+      "$id": "/properties/dateManufactured",
+      "type": "string",
+      "title": "The Datemanufactured Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-06-13"
+      ]
+    },
+    "serialNumber": {
+      "$id": "/properties/serialNumber",
+      "type": "string",
+      "title": "The Serialnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "supportedProtocol": {
+      "$id": "/properties/supportedProtocol",
+      "type": "array",
+      "items": {
+        "$id": "/properties/supportedProtocol/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "ul20"
+        ]
+      }
+    },
+    "dateInstalled": {
+      "$id": "/properties/dateInstalled",
+      "type": "string",
+      "title": "The Dateinstalled Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "dateCreated": {
+      "$id": "/properties/dateCreated",
+      "type": "string",
+      "title": "The Datecreated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "dateModified": {
+      "$id": "/properties/dateModified",
+      "type": "string",
+      "title": "The Datemodified Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "deviceState": {
+      "$id": "/properties/deviceState",
+      "type": "string",
+      "title": "The Devicestate Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ok"
+      ]
+    },
+    "ipAddress": {
+      "$id": "/properties/ipAddress",
+      "type": "string",
+      "title": "The Ipaddress Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "192.14.56.78"
+      ]
+    },
+    "hardwareVersion": {
+      "$id": "/properties/hardwareVersion",
+      "type": "string",
+      "title": "The Hardwareversion Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "softwareVersion": {
+      "$id": "/properties/softwareVersion",
+      "type": "string",
+      "title": "The Softwareversion Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "firmwareVersion": {
+      "$id": "/properties/firmwareVersion",
+      "type": "string",
+      "title": "The Firmwareversion Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        ""
+      ]
+    },
+    "image": {
+      "$id": "/properties/image",
+      "type": "string",
+      "title": "The Image Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "URL - https://schema.org/image"
+      ]
+    },
+    "refSeeAlso": {
+      "$id": "/properties/refSeeAlso",
+      "type": "array",
+      "items": {
+        "$id": "/properties/refSeeAlso/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "GBOX000014-31408"
+        ]
+      }
+    },
+    "source": {
+      "$id": "/properties/source",
+      "type": "string",
+      "title": "The Source Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://somlit.mio.univ-amu.fr/#/donnees/7/12/2"
+      ]
+    }
+  }
+}

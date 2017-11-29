@@ -1,0 +1,296 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "AirQualityStatement-081-24011"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "AirQualityObserved"
+      ]
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "string",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "+0071240.09"
+            ]
+          }
+        }
+      }
+    },
+    "measurements": {
+      "$id": "/properties/measurements",
+      "type": "array",
+      "items": {
+        "$id": "/properties/measurements/items",
+        "type": "object",
+        "properties": {
+          "brandName": {
+            "$id": "/properties/measurements/items/properties/brandName",
+            "type": "null",
+            "title": "The Brandname Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "modelName": {
+            "$id": "/properties/measurements/items/properties/modelName",
+            "type": "null",
+            "title": "The Modelname Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "manufactureName": {
+            "$id": "/properties/measurements/items/properties/manufactureName",
+            "type": "null",
+            "title": "The Manufacturename Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "serialNumber": {
+            "$id": "/properties/measurements/items/properties/serialNumber",
+            "type": "null",
+            "title": "The Serialnumber Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "name": {
+            "$id": "/properties/measurements/items/properties/name",
+            "type": "null",
+            "title": "The Name Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "constituantName": {
+            "$id": "/properties/measurements/items/properties/constituantName",
+            "type": "null",
+            "title": "The Constituantname Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "siteNumber": {
+            "$id": "/properties/measurements/items/properties/siteNumber",
+            "type": "null",
+            "title": "The Sitenumber Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "commonDataType": {
+            "$id": "/properties/measurements/items/properties/commonDataType",
+            "type": "string",
+            "title": "The Commondatatype Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "NO2"
+            ]
+          },
+          "trackDataType": {
+            "$id": "/properties/measurements/items/properties/trackDataType",
+            "type": "string",
+            "title": "The Trackdatatype Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "459"
+            ]
+          },
+          "constituantType": {
+            "$id": "/properties/measurements/items/properties/constituantType",
+            "type": "string",
+            "title": "The Constituanttype Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "1"
+            ]
+          },
+          "startTime": {
+            "$id": "/properties/measurements/items/properties/startTime",
+            "type": "string",
+            "title": "The Starttime Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "2017-10-31T00:00:00"
+            ]
+          },
+          "storageUnit": {
+            "$id": "/properties/measurements/items/properties/storageUnit",
+            "type": "string",
+            "title": "The Storageunit Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "�g/m3"
+            ]
+          },
+          "dataCanal": {
+            "$id": "/properties/measurements/items/properties/dataCanal",
+            "type": "array",
+            "items": {
+              "$id": "/properties/measurements/items/properties/dataCanal/items",
+              "type": "string",
+              "title": "The 0 Schema.",
+              "description": "An explanation about the purpose of this instance.",
+              "default": "",
+              "examples": [
+                "NO2"
+              ]
+            }
+          },
+          "duration": {
+            "$id": "/properties/measurements/items/properties/duration",
+            "type": "string",
+            "title": "The Duration Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "00100"
+            ]
+          },
+          "datasetTimeInterval": {
+            "$id": "/properties/measurements/items/properties/datasetTimeInterval",
+            "type": "null",
+            "title": "The Datasettimeinterval Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "samplingDatasetTimeInterval": {
+            "$id": "/properties/measurements/items/properties/samplingDatasetTimeInterval",
+            "type": "null",
+            "title": "The Samplingdatasettimeinterval Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "measurementNumber": {
+            "$id": "/properties/measurements/items/properties/measurementNumber",
+            "type": "string",
+            "title": "The Measurementnumber Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "1"
+            ]
+          },
+          "constituantMultiplier": {
+            "$id": "/properties/measurements/items/properties/constituantMultiplier",
+            "type": "string",
+            "title": "The Constituantmultiplier Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "0"
+            ]
+          },
+          "numberOfData": {
+            "$id": "/properties/measurements/items/properties/numberOfData",
+            "type": "string",
+            "title": "The Numberofdata Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "9"
+            ]
+          },
+          "controlledProperty": {
+            "$id": "/properties/measurements/items/properties/controlledProperty",
+            "type": "null",
+            "title": "The Controlledproperty Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "value": {
+            "$id": "/properties/measurements/items/properties/value",
+            "type": "array",
+            "items": {
+              "$id": "/properties/measurements/items/properties/value/items",
+              "type": "string",
+              "title": "The 0 Schema.",
+              "description": "An explanation about the purpose of this instance.",
+              "default": "",
+              "examples": [
+                "1.800000000000000e+001"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "dateObserved": {
+      "$id": "/properties/dateObserved",
+      "type": "string",
+      "title": "The Dateobserved Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T00:00:00"
+      ]
+    }
+  }
+}

@@ -11,7 +11,7 @@
       "description": "An explanation about the purpose of this instance.",
       "default": "",
       "examples": [
-        "WaterLevelAndRiverFlow-201711071221"
+        "NoiseLevelObserved-2017-10-31T06:00:00_208402176"
       ]
     },
     "type": {
@@ -21,33 +21,23 @@
       "description": "An explanation about the purpose of this instance.",
       "default": "",
       "examples": [
-        "WaterLevelAndRiverFlow"
-      ]
-    },
-    "entity": {
-      "$id": "/properties/entity",
-      "type": "string",
-      "title": "The Entity Schema.",
-      "description": "An explanation about the purpose of this instance.",
-      "default": "",
-      "examples": [
-        "Y6042010"
-      ]
-    },
-    "dateLastValueReported": {
-      "$id": "/properties/dateLastValueReported",
-      "type": "string",
-      "title": "The Datelastvaluereported Schema.",
-      "description": "An explanation about the purpose of this instance.",
-      "default": "",
-      "examples": [
-        "2016-06-29T15:59:09.22Z"
+        "NoiseLevelObserved"
       ]
     },
     "location": {
       "$id": "/properties/location",
       "type": "object",
       "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
         "coordinates": {
           "$id": "/properties/location/properties/coordinates",
           "type": "array",
@@ -58,21 +48,21 @@
             "description": "An explanation about the purpose of this instance.",
             "default": 0,
             "examples": [
-              7.2698564529418945
+              7.15521240234375
             ]
           }
-        },
-        "type": {
-          "$id": "/properties/location/properties/type",
-          "type": "string",
-          "title": "The Type Schema.",
-          "description": "An explanation about the purpose of this instance.",
-          "default": "",
-          "examples": [
-            "Point"
-          ]
         }
       }
+    },
+    "dateObserved": {
+      "$id": "/properties/dateObserved",
+      "type": "string",
+      "title": "The Dateobserved Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00/2017-10-31T06:15:00"
+      ]
     },
     "measurand": {
       "$id": "/properties/measurand",
@@ -84,28 +74,58 @@
         "description": "An explanation about the purpose of this instance.",
         "default": "",
         "examples": [
-          "H, Hauteur"
+          "LDEN  | 7587 | Lden"
         ]
       }
     },
-    "H": {
-      "$id": "/properties/H",
-      "type": "string",
-      "title": "The H Schema.",
+    "LDEN": {
+      "$id": "/properties/LDEN",
+      "type": "integer",
+      "title": "The Lden Schema.",
       "description": "An explanation about the purpose of this instance.",
-      "default": "",
+      "default": 0,
       "examples": [
-        "-0.086"
+        7587
       ]
     },
-    "Q": {
-      "$id": "/properties/Q",
+    "INDIC_ELEM_P1": {
+      "$id": "/properties/INDIC_ELEM_P1",
       "type": "string",
-      "title": "The Q Schema.",
+      "title": "The Indic_elem_p1 Schema.",
       "description": "An explanation about the purpose of this instance.",
       "default": "",
       "examples": [
-        "7.700"
+        "B"
+      ]
+    },
+    "LEQ_P1": {
+      "$id": "/properties/LEQ_P1",
+      "type": "integer",
+      "title": "The Leq_p1 Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        7400
+      ]
+    },
+    "sonometerClass": {
+      "$id": "/properties/sonometerClass",
+      "type": "string",
+      "title": "The Sonometerclass Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2"
+      ]
+    },
+    "refDevice": {
+      "$id": "/properties/refDevice",
+      "type": "string",
+      "title": "The Refdevice Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "GBOX000014"
       ]
     }
   }

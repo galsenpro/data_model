@@ -1,0 +1,408 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "PropertyName-Quality-Observed-GBOX000014"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Device"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "GBOX000014"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Description du constituant qui poss�de une liste de sites ou du boitier qui poss�de une liste de voies ou canaux"
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "postalCode": {
+          "$id": "/properties/address/properties/postalCode",
+          "type": "string",
+          "title": "The Postalcode Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "06200"
+          ]
+        },
+        "addressLocality": {
+          "$id": "/properties/address/properties/addressLocality",
+          "type": "string",
+          "title": "The Addresslocality Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "NICE"
+          ]
+        },
+        "addressRegion": {
+          "$id": "/properties/address/properties/addressRegion",
+          "type": "string",
+          "title": "The Addressregion Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Alpes Maritimes"
+          ]
+        },
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Av Cyrille Besset"
+          ]
+        }
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.15521240234375
+            ]
+          }
+        }
+      }
+    },
+    "deviceClass": {
+      "$id": "/properties/deviceClass",
+      "type": "string",
+      "title": "The Deviceclass Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "C1"
+      ]
+    },
+    "brandName": {
+      "$id": "/properties/brandName",
+      "type": "string",
+      "title": "The Brandname Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "La marque"
+      ]
+    },
+    "modelName": {
+      "$id": "/properties/modelName",
+      "type": "string",
+      "title": "The Modelname Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Mod�le du device"
+      ]
+    },
+    "manufactureName": {
+      "$id": "/properties/manufactureName",
+      "type": "string",
+      "title": "The Manufacturename Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Nom du fabricant"
+      ]
+    },
+    "serialNumber": {
+      "$id": "/properties/serialNumber",
+      "type": "string",
+      "title": "The Serialnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Num�ro de serie"
+      ]
+    },
+    "dateInstalled": {
+      "$id": "/properties/dateInstalled",
+      "type": "string",
+      "title": "The Dateinstalled Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "dateLastCalibration": {
+      "$id": "/properties/dateLastCalibration",
+      "type": "string",
+      "title": "The Datelastcalibration Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "dateCreated": {
+      "$id": "/properties/dateCreated",
+      "type": "string",
+      "title": "The Datecreated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "305.00.12 (Sur le nom du fichier) converti en DATETIME"
+      ]
+    },
+    "dateModified": {
+      "$id": "/properties/dateModified",
+      "type": "string",
+      "title": "The Datemodified Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "measurements": {
+      "$id": "/properties/measurements",
+      "type": "array",
+      "items": {
+        "$id": "/properties/measurements/items",
+        "type": "object",
+        "properties": {
+          "identifier": {
+            "$id": "/properties/measurements/items/properties/identifier",
+            "type": "string",
+            "title": "The Identifier Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "31408"
+            ]
+          },
+          "name": {
+            "$id": "/properties/measurements/items/properties/name",
+            "type": "string",
+            "title": "The Name Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "airPollution"
+            ]
+          },
+          "label": {
+            "$id": "/properties/measurements/items/properties/label",
+            "type": "string",
+            "title": "The Label Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "Qualit� d'air"
+            ]
+          },
+          "measurementTechnique": {
+            "$id": "/properties/measurements/items/properties/measurementTechnique",
+            "type": "string",
+            "title": "The Measurementtechnique Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "NO2"
+            ]
+          },
+          "unitCode": {
+            "$id": "/properties/measurements/items/properties/unitCode",
+            "type": "string",
+            "title": "The Unitcode Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "NO2"
+            ]
+          },
+          "unitText": {
+            "$id": "/properties/measurements/items/properties/unitText",
+            "type": "string",
+            "title": "The Unittext Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "�g/m3"
+            ]
+          },
+          "value": {
+            "$id": "/properties/measurements/items/properties/value",
+            "type": "array",
+            "items": {
+              "$id": "/properties/measurements/items/properties/value/items",
+              "type": "string",
+              "title": "The 0 Schema.",
+              "description": "An explanation about the purpose of this instance.",
+              "default": "",
+              "examples": [
+                "1.800000000000000e+001"
+              ]
+            }
+          },
+          "dateObserved": {
+            "$id": "/properties/measurements/items/properties/dateObserved",
+            "type": "string",
+            "title": "The Dateobserved Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "2017-10-31T06:00:00"
+            ]
+          },
+          "height": {
+            "$id": "/properties/measurements/items/properties/height",
+            "type": "null",
+            "title": "The Height Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "channelState": {
+            "$id": "/properties/measurements/items/properties/channelState",
+            "type": "string",
+            "title": "The Channelstate Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "db_leqg"
+            ]
+          },
+          "multiplier": {
+            "$id": "/properties/measurements/items/properties/multiplier",
+            "type": "null",
+            "title": "The Multiplier Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "measureFrequency": {
+            "$id": "/properties/measurements/items/properties/measureFrequency",
+            "type": "null",
+            "title": "The Measurefrequency Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "maxValue": {
+            "$id": "/properties/measurements/items/properties/maxValue",
+            "type": "null",
+            "title": "The Maxvalue Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "minValue": {
+            "$id": "/properties/measurements/items/properties/minValue",
+            "type": "null",
+            "title": "The Minvalue Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "siteGap": {
+            "$id": "/properties/measurements/items/properties/siteGap",
+            "type": "null",
+            "title": "The Sitegap Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "elevation": {
+            "$id": "/properties/measurements/items/properties/elevation",
+            "type": "null",
+            "title": "The Elevation Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": null,
+            "examples": [
+              null
+            ]
+          },
+          "refSeeAlso": {
+            "$id": "/properties/measurements/items/properties/refSeeAlso",
+            "type": "string",
+            "title": "The Refseealso Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": "",
+            "examples": [
+              "AirQualityStatement-GBOX000014"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

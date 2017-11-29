@@ -1,0 +1,238 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "myDevice-airPollution-15440"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "DeviceDataSensor"
+      ]
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "string",
+      "title": "The Category Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "sensor"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Name of canal"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Description du canal ou voie"
+      ]
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.15521240234375
+            ]
+          }
+        }
+      }
+    },
+    "measurementTechnique": {
+      "$id": "/properties/measurementTechnique",
+      "type": "string",
+      "title": "The Measurementtechnique Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "db_leqg"
+      ]
+    },
+    "label": {
+      "$id": "/properties/label",
+      "type": "string",
+      "title": "The Label Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Bruit"
+      ]
+    },
+    "unitCode": {
+      "$id": "/properties/unitCode",
+      "type": "string",
+      "title": "The Unitcode Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2N"
+      ]
+    },
+    "unitText": {
+      "$id": "/properties/unitText",
+      "type": "string",
+      "title": "The Unittext Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "dB"
+      ]
+    },
+    "value": {
+      "$id": "/properties/value",
+      "type": "integer",
+      "title": "The Value Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        70
+      ]
+    },
+    "dateObserved": {
+      "$id": "/properties/dateObserved",
+      "type": "string",
+      "title": "The Dateobserved Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "dateLastCalibration": {
+      "$id": "/properties/dateLastCalibration",
+      "type": "string",
+      "title": "The Datelastcalibration Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-10-31T06:00:00"
+      ]
+    },
+    "height": {
+      "$id": "/properties/height",
+      "type": "null",
+      "title": "The Height Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "channelState": {
+      "$id": "/properties/channelState",
+      "type": "string",
+      "title": "The Channelstate Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "db_leqg"
+      ]
+    },
+    "multiplier": {
+      "$id": "/properties/multiplier",
+      "type": "null",
+      "title": "The Multiplier Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "measureFrequency": {
+      "$id": "/properties/measureFrequency",
+      "type": "null",
+      "title": "The Measurefrequency Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "maxValue": {
+      "$id": "/properties/maxValue",
+      "type": "null",
+      "title": "The Maxvalue Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "minValue": {
+      "$id": "/properties/minValue",
+      "type": "null",
+      "title": "The Minvalue Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "siteGap": {
+      "$id": "/properties/siteGap",
+      "type": "null",
+      "title": "The Sitegap Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "elevation": {
+      "$id": "/properties/elevation",
+      "type": "null",
+      "title": "The Elevation Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    }
+  }
+}

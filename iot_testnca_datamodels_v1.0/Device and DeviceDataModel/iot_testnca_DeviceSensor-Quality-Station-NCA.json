@@ -1,54 +1,46 @@
 {
-	"id": "GBOX000014",    
-	"type": "DeviceSensor",    
-	"name": "GBOX000014",    
+	"id": "GBOX000014",
+	"type": "DeviceSensor",
+	"name": "GBOX000014",
 	"category": [
 		"airPollution",
 		"noiseLevel",
 		"noiseLevel",
 		"salinity",
-		"noiseLevel"    
-	],    
-	"description": "",    
-	"address": {
-		"postalCode": "06200",        
-		"addressLocality": "NICE",        
-		"addressRegion": "Alpes Maritimes",        
-		"addressCountry": "FR",        
-		"streetAddress": "Av Cyrille Besset"    
-	},    
+		"noiseLevel"],
+	"description": "",
+	"address": {"postalCode": "06200","addressLocality": "NICE","addressRegion": "Alpes Maritimes","addressCountry": "FR","streetAddress": "Av Cyrille Besset"},
 	"location": {
-		"type": "Point",        
+		"type": "Point",
 		"coordinates": [
 			7.1552125224843621,
-			43.660530261510573        
-		]
-	},    
-	"brandName": "",    
-	"modelName": "",    
-	"manufactureName": "",    
-	"dateManufactured": "2017-06-13",    
-	"serialNumber": "",    
+			43.660530261510573
+			]
+	},
+	"brandName": "",
+	"modelName": "",
+	"manufactureName": "",
+	"dateManufactured": "2017-06-13",
+	"serialNumber": "",
 	"supportedProtocol": [
 		"ul20",
 		"mqtt",
-		"lora"    
-	],    
-	"dateInstalled": "2017-10-31T06:00:00",    
-	"dateCreated": "2017-10-31T06:00:00",    
-	"dateModified": "2017-10-31T06:00:00",    
-	"deviceState": "ok",    
-	"ipAddress": "192.14.56.78",    
-	"hardwareVersion": "",    
-	"softwareVersion": "",    
-	"firmwareVersion": "",    
-	"image": "URL - https://schema.org/image",    
+		"lora"
+		],
+	"dateInstalled": "2017-10-31T06:00:00",
+	"dateCreated": "2017-10-31T06:00:00",
+	"dateModified": "2017-10-31T06:00:00",
+	"deviceState": "ok",
+	"ipAddress": "192.14.56.78",
+	"hardwareVersion": "",
+	"softwareVersion": "",
+	"firmwareVersion": "",
+	"image": "URL - https://schema.org/image",
 	"refSeeAlso": [
 		"GBOX000014-31408",
 		"GBOX000014-15440",
 		"GBOX000014-208402176",
 		"GBOX000014-5681654",
-		"GBOX000014-1506330386"    
-	],    
+		"GBOX000014-1506330386"],
 	"source": "http://somlit.mio.univ-amu.fr/#/donnees/7/12/2"
 }
