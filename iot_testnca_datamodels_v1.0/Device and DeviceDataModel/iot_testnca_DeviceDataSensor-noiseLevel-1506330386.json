@@ -1,6 +1,6 @@
 {
 	"id": "myDevice-noiseLevel-1506330386",
-	"type": "DeviceDataModel",
+	"type": "DeviceDataSensor",
 	"category": "sensor",
 	"name": "BRUITO-SENSIB-000001",
 	"description": "PREVENTEC Sensibel triple",

@@ -1,9 +1,9 @@
 {
-	"id": "myDevice-salinity-20130916140350",
-	"type": "DeviceDataModel",
+	"id": "myDevice-airPollution-15440",
+	"type": "DeviceDataSensor",
 	"category": "sensor",
 	"name": "Name of canal",
-	"description": "Salinité villeFranche",
+	"description": "Description du canal ou voie",
 	"location": {
 		"type": "Point",
 		"coordinates": [
@@ -11,15 +11,15 @@
 			43.660530261510573
 		]
 	},
-	"measurementTechnique": "S",
-	"label": "Salinity, Practical",
+	"measurementTechnique": "db_leqg",
+	"label": "Bruit",
 	"unitCode": "usedUniversalCode",
 	"unitText": "TextOfusedUniversalCode",
-	"value": 38.2042,
+	"value": 7.000000000000000e+001,
 	"dateObserved": "2017-10-31T06:00:00",
 	"dateLastCalibration": "2017-10-31T06:00:00",
 	"height": null,
-	"channelState": "ok",
+	"channelState": "db_leqg",
 	"multiplier": null,
 	"measureFrequency": null,
 	"maxValue": null,
