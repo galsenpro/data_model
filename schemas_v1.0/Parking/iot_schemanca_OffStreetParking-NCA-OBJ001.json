@@ -1,0 +1,274 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Parking-OBJ001"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "OffStreetParking"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "MASSENA"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Description du parking"
+      ]
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Categories du site de stationnement"
+        ]
+      }
+    },
+    "chargeType": {
+      "$id": "/properties/chargeType",
+      "type": "array",
+      "items": {
+        "$id": "/properties/chargeType/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "temporaryPrice"
+        ]
+      }
+    },
+    "requiredPermit": {
+      "$id": "/properties/requiredPermit",
+      "type": "array",
+      "items": {
+        "$id": "/properties/requiredPermit/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "employeePermit"
+        ]
+      }
+    },
+    "layout": {
+      "$id": "/properties/layout",
+      "type": "array",
+      "items": {
+        "$id": "/properties/layout/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "disposition de stationnement"
+        ]
+      }
+    },
+    "maximumParkingDuration": {
+      "$id": "/properties/maximumParkingDuration",
+      "type": "string",
+      "title": "The Maximumparkingduration Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "PT8H"
+      ]
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.2698564529418945
+            ]
+          }
+        },
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        }
+      }
+    },
+    "allowedVehicleType": {
+      "$id": "/properties/allowedVehicleType",
+      "type": "array",
+      "items": {
+        "$id": "/properties/allowedVehicleType/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "car"
+        ]
+      }
+    },
+    "totalSpotNumber": {
+      "$id": "/properties/totalSpotNumber",
+      "type": "integer",
+      "title": "The Totalspotnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        325
+      ]
+    },
+    "availableSpotNumber": {
+      "$id": "/properties/availableSpotNumber",
+      "type": "integer",
+      "title": "The Availablespotnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        1
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "postalCode": {
+          "$id": "/properties/address/properties/postalCode",
+          "type": "string",
+          "title": "The Postalcode Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "06000"
+          ]
+        },
+        "addressLocality": {
+          "$id": "/properties/address/properties/addressLocality",
+          "type": "string",
+          "title": "The Addresslocality Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "NICE"
+          ]
+        },
+        "addressRegion": {
+          "$id": "/properties/address/properties/addressRegion",
+          "type": "string",
+          "title": "The Addressregion Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Alpes Maritimes"
+          ]
+        },
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "18 Avenue F�lix Faure"
+          ]
+        }
+      }
+    },
+    "dateModified": {
+      "$id": "/properties/dateModified",
+      "type": "string",
+      "title": "The Datemodified Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-11-07T14:18:58.00Z"
+      ]
+    },
+    "active": {
+      "$id": "/properties/active",
+      "type": "string",
+      "title": "The Active Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "oui"
+      ]
+    },
+    "message": {
+      "$id": "/properties/message",
+      "type": "string",
+      "title": "The Message Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "1 | COMPLET | OUVERT | ... "
+      ]
+    },
+    "eventInfo": {
+      "$id": "/properties/eventInfo",
+      "type": "string",
+      "title": "The Eventinfo Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "OK"
+      ]
+    }
+  }
+}
