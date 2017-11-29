@@ -1,11 +1,11 @@
 {
-	"id": "001-RoadSegment-Promenade-des-Anglais-forward",
+	"id": "RoadSegment--001-forward",
 	"type": "RoadSegment",
-	"name": "Promenade des Anglais",
+	"name": "Road segment Promenade des Anglais",
 	"category": [
 		"oneway"
 	],
-	"refRoad": "Promenade-Road-001",
+	"refRoad": "Road-001",
 	"startPoint": {
 		"type": "Point",
 		"coordinates": [
@@ -58,9 +58,8 @@
 		"forward",
 		"backward"
 	],
-	"source": "http://source...."/*
-	"totalLaneNumber": 2,
-	"maximumAllowedSpeed": 120,
-	"minimumAllowedSpeed": 60,
-	*/
+	"source": "http://source....",
+	"totalLaneNumber": null,
+	"maximumAllowedSpeed": null,
+	"minimumAllowedSpeed": null
 }
