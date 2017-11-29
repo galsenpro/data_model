@@ -1,0 +1,268 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "EVENT-PRO-NCA-8090"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Event"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "15EME CONGRES DE CHIRURGIE DIGESTIVE DU CHU DE NICE 2017"
+      ]
+    },
+    "publicAccess": {
+      "$id": "/properties/publicAccess",
+      "type": "boolean",
+      "title": "The Publicaccess Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "start": {
+      "$id": "/properties/start",
+      "type": "string",
+      "title": "The Start Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-11-17"
+      ]
+    },
+    "end": {
+      "$id": "/properties/end",
+      "type": "string",
+      "title": "The End Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-11-18"
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "12 av de Verdun"
+          ]
+        }
+      }
+    },
+    "website": {
+      "$id": "/properties/website",
+      "type": "array",
+      "items": {
+        "$id": "/properties/website/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "http://www.B4hotels.com"
+        ]
+      }
+    },
+    "telephone": {
+      "$id": "/properties/telephone",
+      "type": "string",
+      "title": "The Telephone Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 16 75 75"
+      ]
+    },
+    "email": {
+      "$id": "/properties/email",
+      "type": "string",
+      "title": "The Email Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "reservation@plaza.boscolo.com"
+      ]
+    },
+    "profiles": {
+      "$id": "/properties/profiles",
+      "type": "array",
+      "items": {
+        "$id": "/properties/profiles/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Convention Bureau"
+        ]
+      }
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "array",
+      "items": {
+        "$id": "/properties/description/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "18EME CONGR�S DE LA SOCI�T� FRAN�AISE DE LUTTE CONTRE LE SIDA"
+        ]
+      }
+    },
+    "images": {
+      "$id": "/properties/images",
+      "type": "array",
+      "items": {
+        "$id": "/properties/images/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "http://www.nicetourisme.com/public/resources/ref/events/5872/gallery/18eme-congres-de-la-societe-francaise-de-lutte-contre-le-sida_192709.jpg"
+        ]
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.2808098793029785
+            ]
+          }
+        }
+      }
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Congr�s"
+        ]
+      }
+    },
+    "note": {
+      "$id": "/properties/note",
+      "type": "integer",
+      "title": "The Note Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "refEntries": {
+      "$id": "/properties/refEntries",
+      "type": "array",
+      "items": {
+        "$id": "/properties/refEntries/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "68"
+        ]
+      }
+    },
+    "dateCreated": {
+      "$id": "/properties/dateCreated",
+      "type": "string",
+      "title": "The Datecreated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-09-15 13:47:03"
+      ]
+    },
+    "dateUpdated": {
+      "$id": "/properties/dateUpdated",
+      "type": "string",
+      "title": "The Dateupdated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-09-15 13:53:59"
+      ]
+    },
+    "refRelatedEntity": {
+      "$id": "/properties/refRelatedEntity",
+      "type": "string",
+      "title": "The Refrelatedentity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "POI-ENTITY-ID"
+      ]
+    }
+  }
+}

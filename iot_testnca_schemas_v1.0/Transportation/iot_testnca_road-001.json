@@ -1,0 +1,102 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Road-001"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Road"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "001"
+      ]
+    },
+    "alternateName": {
+      "$id": "/properties/alternateName",
+      "type": "string",
+      "title": "The Alternatename Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Promenade des Anglais"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Voie de la promenade des anglais"
+      ]
+    },
+    "roadClass": {
+      "$id": "/properties/roadClass",
+      "type": "string",
+      "title": "The Roadclass Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "bus"
+      ]
+    },
+    "length": {
+      "$id": "/properties/length",
+      "type": "integer",
+      "title": "The Length Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        355
+      ]
+    },
+    "refRoadSegment": {
+      "$id": "/properties/refRoadSegment",
+      "type": "array",
+      "items": {
+        "$id": "/properties/refRoadSegment/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "RoadSegment-001-forward"
+        ]
+      }
+    },
+    "responsible": {
+      "$id": "/properties/responsible",
+      "type": "null",
+      "title": "The Responsible Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    }
+  }
+}

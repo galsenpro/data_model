@@ -1,0 +1,234 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "TrafficFlowObserved-RoadSegment-001-forward"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "TrafficFlowObserved"
+      ]
+    },
+    "laneId": {
+      "$id": "/properties/laneId",
+      "type": "string",
+      "title": "The Laneid Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "AUGUSTIN.COMPTAGE.PVOIE.VL.VIT.06088AA1215_001_1"
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Promenade des Anglais"
+          ]
+        },
+        "addressLocality": {
+          "$id": "/properties/address/properties/addressLocality",
+          "type": "string",
+          "title": "The Addresslocality Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "NICE"
+          ]
+        },
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "ES"
+          ]
+        }
+      }
+    },
+    "refRoadSegment": {
+      "$id": "/properties/refRoadSegment",
+      "type": "string",
+      "title": "The Refroadsegment Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "001-RoadSegment-Promenade-des-Anglais-forward"
+      ]
+    },
+    "predefinedLocationReference": {
+      "$id": "/properties/predefinedLocationReference",
+      "type": "string",
+      "title": "The Predefinedlocationreference Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "06088AA1215_001_1"
+      ]
+    },
+    "dateModified": {
+      "$id": "/properties/dateModified",
+      "type": "string",
+      "title": "The Datemodified Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-11-23T13:57:02+01:00"
+      ]
+    },
+    "dateObserved": {
+      "$id": "/properties/dateObserved",
+      "type": "string",
+      "title": "The Dateobserved Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2016-12-07T11:10:00/2016-12-07T11:15:00"
+      ]
+    },
+    "dateObservedFrom": {
+      "$id": "/properties/dateObservedFrom",
+      "type": "string",
+      "title": "The Dateobservedfrom Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2016-12-07T11:10:00"
+      ]
+    },
+    "dateObservedTo": {
+      "$id": "/properties/dateObservedTo",
+      "type": "string",
+      "title": "The Dateobservedto Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2016-12-07T11:15:00"
+      ]
+    },
+    "occupancy": {
+      "$id": "/properties/occupancy",
+      "type": "integer",
+      "title": "The Occupancy Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        1
+      ]
+    },
+    "averageVehicleSpeed": {
+      "$id": "/properties/averageVehicleSpeed",
+      "type": "integer",
+      "title": "The Averagevehiclespeed Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        66
+      ]
+    },
+    "laneDirection": {
+      "$id": "/properties/laneDirection",
+      "type": "string",
+      "title": "The Lanedirection Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "forward"
+      ]
+    },
+    "congested": {
+      "$id": "/properties/congested",
+      "type": "boolean",
+      "title": "The Congested Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    },
+    "averageHeadwayTime": {
+      "$id": "/properties/averageHeadwayTime",
+      "type": "null",
+      "title": "The Averageheadwaytime Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "averageGapDistance": {
+      "$id": "/properties/averageGapDistance",
+      "type": "null",
+      "title": "The Averagegapdistance Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "intensity": {
+      "$id": "/properties/intensity",
+      "type": "null",
+      "title": "The Intensity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "capacity": {
+      "$id": "/properties/capacity",
+      "type": "null",
+      "title": "The Capacity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "averageVehicleLength": {
+      "$id": "/properties/averageVehicleLength",
+      "type": "null",
+      "title": "The Averagevehiclelength Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "reversedLane": {
+      "$id": "/properties/reversedLane",
+      "type": "boolean",
+      "title": "The Reversedlane Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": false,
+      "examples": [
+        false
+      ]
+    }
+  }
+}

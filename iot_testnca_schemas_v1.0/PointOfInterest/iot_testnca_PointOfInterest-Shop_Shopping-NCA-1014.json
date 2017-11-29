@@ -1,0 +1,326 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "PointOfInterest-Shop-1014"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Shopping"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ALBERT ARTS"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "MAJONE ...."
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "5 Promenade des anglais"
+          ]
+        }
+      }
+    },
+    "url": {
+      "$id": "/properties/url",
+      "type": "string",
+      "title": "The Url Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://albert-arts.eu"
+      ]
+    },
+    "faxNumber": {
+      "$id": "/properties/faxNumber",
+      "type": "string",
+      "title": "The Faxnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "0 805 08 88 65"
+      ]
+    },
+    "telephone": {
+      "$id": "/properties/telephone",
+      "type": "string",
+      "title": "The Telephone Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 87 28 73"
+      ]
+    },
+    "email": {
+      "$id": "/properties/email",
+      "type": "string",
+      "title": "The Email Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "boutique@albert-arts.com"
+      ]
+    },
+    "paymentAccepted": {
+      "$id": "/properties/paymentAccepted",
+      "type": "array",
+      "items": {
+        "$id": "/properties/paymentAccepted/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              -8.768460273742676
+            ]
+          }
+        }
+      }
+    },
+    "proximity": {
+      "$id": "/properties/proximity",
+      "type": "array",
+      "items": {
+        "$id": "/properties/proximity/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Bord de mer"
+        ]
+      }
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "4"
+        ]
+      }
+    },
+    "sector": {
+      "$id": "/properties/sector",
+      "type": "null",
+      "title": "The Sector Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "living": {
+      "$id": "/properties/living",
+      "type": "null",
+      "title": "The Living Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "tariffs": {
+      "$id": "/properties/tariffs",
+      "type": "null",
+      "title": "The Tariffs Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "capacity": {
+      "$id": "/properties/capacity",
+      "type": "null",
+      "title": "The Capacity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "closures": {
+      "$id": "/properties/closures",
+      "type": "object",
+      "properties": {
+        "closureDay": {
+          "$id": "/properties/closures/properties/closureDay",
+          "type": "string",
+          "title": "The Closureday Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Dimanche"
+          ]
+        },
+        "closureSpan": {
+          "$id": "/properties/closures/properties/closureSpan",
+          "type": "string",
+          "title": "The Closurespan Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "toute la journ�e"
+          ]
+        }
+      }
+    },
+    "spaces": {
+      "$id": "/properties/spaces",
+      "type": "null",
+      "title": "The Spaces Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "openingHours": {
+      "$id": "/properties/openingHours",
+      "type": "string",
+      "title": "The Openinghours Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "11:00-19:30"
+      ]
+    },
+    "closing": {
+      "$id": "/properties/closing",
+      "type": "string",
+      "title": "The Closing Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "24H"
+      ]
+    },
+    "source": {
+      "$id": "/properties/source",
+      "type": "string",
+      "title": "The Source Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "LinkOfTheSource"
+      ]
+    },
+    "dateCreated": {
+      "$id": "/properties/dateCreated",
+      "type": "string",
+      "title": "The Datecreated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2015-07-21 15:30:03"
+      ]
+    },
+    "dateUpdated": {
+      "$id": "/properties/dateUpdated",
+      "type": "string",
+      "title": "The Dateupdated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-08-30 17:31:02"
+      ]
+    },
+    "refSeeAlso": {
+      "$id": "/properties/refSeeAlso",
+      "type": "array",
+      "items": {
+        "$id": "/properties/refSeeAlso/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Shop-NCA-2017"
+        ]
+      }
+    }
+  }
+}

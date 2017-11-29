@@ -1,0 +1,648 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "PointOfInterest-Visites-40724"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Visites"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ALLIANZ RIVIERA"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        " ...."
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "455 Promenade des anglais"
+          ]
+        }
+      }
+    },
+    "url": {
+      "$id": "/properties/url",
+      "type": "string",
+      "title": "The Url Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://www.allianz-riviera.fr"
+      ]
+    },
+    "faxNumber": {
+      "$id": "/properties/faxNumber",
+      "type": "string",
+      "title": "The Faxnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 44 50 40"
+      ]
+    },
+    "telephone": {
+      "$id": "/properties/telephone",
+      "type": "string",
+      "title": "The Telephone Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 97 74 27"
+      ]
+    },
+    "email": {
+      "$id": "/properties/email",
+      "type": "string",
+      "title": "The Email Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "entreprise@allianz-riviera.fr"
+      ]
+    },
+    "language": {
+      "$id": "/properties/language",
+      "type": "array",
+      "items": {
+        "$id": "/properties/language/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.263440132141113
+            ]
+          }
+        }
+      }
+    },
+    "amenityFeature": {
+      "$id": "/properties/amenityFeature",
+      "type": "array",
+      "items": {
+        "$id": "/properties/amenityFeature/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "13"
+        ]
+      }
+    },
+    "proximity": {
+      "$id": "/properties/proximity",
+      "type": "array",
+      "items": {
+        "$id": "/properties/proximity/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Nice Plaine du Var Est"
+        ]
+      }
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "11"
+        ]
+      }
+    },
+    "stations": {
+      "$id": "/properties/stations",
+      "type": "array",
+      "items": {
+        "$id": "/properties/stations/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Allianz Riviera"
+        ]
+      }
+    },
+    "options": {
+      "$id": "/properties/options",
+      "type": "array",
+      "items": {
+        "$id": "/properties/options/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Privatisable"
+        ]
+      }
+    },
+    "publications": {
+      "$id": "/properties/publications",
+      "type": "null",
+      "title": "The Publications Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "commonTags": {
+      "$id": "/properties/commonTags",
+      "type": "null",
+      "title": "The Commontags Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "groupOptions": {
+      "$id": "/properties/groupOptions",
+      "type": "null",
+      "title": "The Groupoptions Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "disabledOptions": {
+      "$id": "/properties/disabledOptions",
+      "type": "array",
+      "items": {
+        "$id": "/properties/disabledOptions/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Accessible personnes handicap�es"
+        ]
+      }
+    },
+    "sectors": {
+      "$id": "/properties/sectors",
+      "type": "null",
+      "title": "The Sectors Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "descriptions": {
+      "$id": "/properties/descriptions",
+      "type": "array",
+      "items": {
+        "$id": "/properties/descriptions/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "L�espace polyvalent de l�Allianz Riviera s�anime � Nice dans la plaine du Var au sein de l��co-vall�e et � quelques encablures de l�a�roport international Nice C�te d�Azur. Con�u par l�architecte de renomm�e internationale Jean-Michel Wilmotte, v�ritable lieu de vie, d��change et de partage, il accueille les matches de l�OGC Nice, du football mais aussi du rugby, des concerts, des spectacles et des manifestations de grande envergure. Site h�te de l�Euro 2016, le stade connect�, accueille de 35 000 � 45 000 spectateurs et respecte les grands principes du d�veloppement durable. L�Allianz Riviera abrite le Mus�e National du Sport, labellis� � Mus�e de France �, avec 5 000 m� d�di�s � la conservation, diffusion et valorisation du patrimoine sportif (50 000 objets et 200 000 pi�ces de documentation)"
+        ]
+      }
+    },
+    "living": {
+      "$id": "/properties/living",
+      "type": "object",
+      "properties": {
+        "roomCount": {
+          "$id": "/properties/living/properties/roomCount",
+          "type": "integer",
+          "title": "The Roomcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "roomBathCount": {
+          "$id": "/properties/living/properties/roomBathCount",
+          "type": "integer",
+          "title": "The Roombathcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "roomShowerCount": {
+          "$id": "/properties/living/properties/roomShowerCount",
+          "type": "integer",
+          "title": "The Roomshowercount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "suiteCount": {
+          "$id": "/properties/living/properties/suiteCount",
+          "type": "integer",
+          "title": "The Suitecount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "studioCount": {
+          "$id": "/properties/living/properties/studioCount",
+          "type": "integer",
+          "title": "The Studiocount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "apartmentCount": {
+          "$id": "/properties/living/properties/apartmentCount",
+          "type": "integer",
+          "title": "The Apartmentcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "roomAccessibleCount": {
+          "$id": "/properties/living/properties/roomAccessibleCount",
+          "type": "integer",
+          "title": "The Roomaccessiblecount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "singleCount": {
+          "$id": "/properties/living/properties/singleCount",
+          "type": "integer",
+          "title": "The Singlecount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "doubleCount": {
+          "$id": "/properties/living/properties/doubleCount",
+          "type": "integer",
+          "title": "The Doublecount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "tripleCount": {
+          "$id": "/properties/living/properties/tripleCount",
+          "type": "integer",
+          "title": "The Triplecount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "twinsCount": {
+          "$id": "/properties/living/properties/twinsCount",
+          "type": "integer",
+          "title": "The Twinscount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "familyCount": {
+          "$id": "/properties/living/properties/familyCount",
+          "type": "integer",
+          "title": "The Familycount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "area": {
+          "$id": "/properties/living/properties/area",
+          "type": "integer",
+          "title": "The Area Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "livingType": {
+          "$id": "/properties/living/properties/livingType",
+          "type": "null",
+          "title": "The Livingtype Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "floor": {
+          "$id": "/properties/living/properties/floor",
+          "type": "integer",
+          "title": "The Floor Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "bedroomCount": {
+          "$id": "/properties/living/properties/bedroomCount",
+          "type": "integer",
+          "title": "The Bedroomcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "sleepsCount": {
+          "$id": "/properties/living/properties/sleepsCount",
+          "type": "integer",
+          "title": "The Sleepscount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "furnishedRoomCount": {
+          "$id": "/properties/living/properties/furnishedRoomCount",
+          "type": "integer",
+          "title": "The Furnishedroomcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        }
+      }
+    },
+    "tariffs": {
+      "$id": "/properties/tariffs",
+      "type": "null",
+      "title": "The Tariffs Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "capacity": {
+      "$id": "/properties/capacity",
+      "type": "object",
+      "properties": {
+        "indoor": {
+          "$id": "/properties/capacity/properties/indoor",
+          "type": "integer",
+          "title": "The Indoor Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "outdoor": {
+          "$id": "/properties/capacity/properties/outdoor",
+          "type": "integer",
+          "title": "The Outdoor Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            0
+          ]
+        },
+        "roomCount": {
+          "$id": "/properties/capacity/properties/roomCount",
+          "type": "integer",
+          "title": "The Roomcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            50
+          ]
+        },
+        "seated": {
+          "$id": "/properties/capacity/properties/seated",
+          "type": "integer",
+          "title": "The Seated Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            36000
+          ]
+        },
+        "cocktail": {
+          "$id": "/properties/capacity/properties/cocktail",
+          "type": "integer",
+          "title": "The Cocktail Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            5000
+          ]
+        }
+      }
+    },
+    "closures": {
+      "$id": "/properties/closures",
+      "type": "object",
+      "properties": {
+        "closureDay": {
+          "$id": "/properties/closures/properties/closureDay",
+          "type": "string",
+          "title": "The Closureday Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Dimanche"
+          ]
+        },
+        "closureSpan": {
+          "$id": "/properties/closures/properties/closureSpan",
+          "type": "string",
+          "title": "The Closurespan Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Toute la journ�e"
+          ]
+        }
+      }
+    },
+    "spaces": {
+      "$id": "/properties/spaces",
+      "type": "null",
+      "title": "The Spaces Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "openingHours": {
+      "$id": "/properties/openingHours",
+      "type": "string",
+      "title": "The Openinghours Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "8:00-23:00 (lundi au samedi) - 10:00-23:00 (dimanche)"
+      ]
+    },
+    "closing": {
+      "$id": "/properties/closing",
+      "type": "string",
+      "title": "The Closing Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "01/12-30/04"
+      ]
+    },
+    "source": {
+      "$id": "/properties/source",
+      "type": "null",
+      "title": "The Source Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "dateCreated": {
+      "$id": "/properties/dateCreated",
+      "type": "string",
+      "title": "The Datecreated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2013-10-22 10:55:14"
+      ]
+    },
+    "dateUpdated": {
+      "$id": "/properties/dateUpdated",
+      "type": "string",
+      "title": "The Dateupdated Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-08-30 17:31:02"
+      ]
+    },
+    "refSeeAlso": {
+      "$id": "/properties/refSeeAlso",
+      "type": "array",
+      "items": {
+        "$id": "/properties/refSeeAlso/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Visites-NCA-2017"
+        ]
+      }
+    }
+  }
+}

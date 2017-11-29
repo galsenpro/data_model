@@ -1,0 +1,426 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Restaurant-NCA:4506"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Restaurant"
+      ]
+    },
+    "name": {
+      "$id": "/properties/name",
+      "type": "string",
+      "title": "The Name Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "AC LOUNGE BAR & RESTAURANT | AC LOUNGE"
+      ]
+    },
+    "description": {
+      "$id": "/properties/description",
+      "type": "string",
+      "title": "The Description Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "Descriptions dU RESTAURANT"
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "FR"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "59 Promenade des anglais"
+          ]
+        }
+      }
+    },
+    "url": {
+      "$id": "/properties/url",
+      "type": "string",
+      "title": "The Url Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://www.marriott.com/nceac"
+      ]
+    },
+    "faxNumber": {
+      "$id": "/properties/faxNumber",
+      "type": "string",
+      "title": "The Faxnumber Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 44 50 40"
+      ]
+    },
+    "telephone": {
+      "$id": "/properties/telephone",
+      "type": "string",
+      "title": "The Telephone Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "+33(0)4 93 97 74 27"
+      ]
+    },
+    "email": {
+      "$id": "/properties/email",
+      "type": "string",
+      "title": "The Email Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "ac.nceac.restaurant@marriott.com"
+      ]
+    },
+    "language": {
+      "$id": "/properties/language",
+      "type": "array",
+      "items": {
+        "$id": "/properties/language/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "paymentAccepted": {
+      "$id": "/properties/paymentAccepted",
+      "type": "array",
+      "items": {
+        "$id": "/properties/paymentAccepted/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "amenities": {
+      "$id": "/properties/amenities",
+      "type": "array",
+      "items": {
+        "$id": "/properties/amenities/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "8"
+        ]
+      }
+    },
+    "proximity": {
+      "$id": "/properties/proximity",
+      "type": "array",
+      "items": {
+        "$id": "/properties/proximity/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Bord de mer"
+        ]
+      }
+    },
+    "category": {
+      "$id": "/properties/category",
+      "type": "array",
+      "items": {
+        "$id": "/properties/category/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "servesCuisine": {
+      "$id": "/properties/servesCuisine",
+      "type": "array",
+      "items": {
+        "$id": "/properties/servesCuisine/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "atmospher": {
+      "$id": "/properties/atmospher",
+      "type": "array",
+      "items": {
+        "$id": "/properties/atmospher/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "1"
+        ]
+      }
+    },
+    "option": {
+      "$id": "/properties/option",
+      "type": "array",
+      "items": {
+        "$id": "/properties/option/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Privatisable"
+        ]
+      }
+    },
+    "publication": {
+      "$id": "/properties/publication",
+      "type": "null",
+      "title": "The Publication Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "commonTags": {
+      "$id": "/properties/commonTags",
+      "type": "null",
+      "title": "The Commontags Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "groupOptions": {
+      "$id": "/properties/groupOptions",
+      "type": "null",
+      "title": "The Groupoptions Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "familyOptions": {
+      "$id": "/properties/familyOptions",
+      "type": "array",
+      "items": {
+        "$id": "/properties/familyOptions/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "mat�riel adapt� aux enfants"
+        ]
+      }
+    },
+    "disabledOptions": {
+      "$id": "/properties/disabledOptions",
+      "type": "array",
+      "items": {
+        "$id": "/properties/disabledOptions/items",
+        "type": "string",
+        "title": "The 0 Schema.",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "Accessible personnes handicap�es"
+        ]
+      }
+    },
+    "sectors": {
+      "$id": "/properties/sectors",
+      "type": "null",
+      "title": "The Sectors Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "living": {
+      "$id": "/properties/living",
+      "type": "null",
+      "title": "The Living Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "tariffs": {
+      "$id": "/properties/tariffs",
+      "type": "null",
+      "title": "The Tariffs Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "capacity": {
+      "$id": "/properties/capacity",
+      "type": "object",
+      "properties": {
+        "indoor": {
+          "$id": "/properties/capacity/properties/indoor",
+          "type": "string",
+          "title": "The Indoor Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "50"
+          ]
+        },
+        "outdoor": {
+          "$id": "/properties/capacity/properties/outdoor",
+          "type": "string",
+          "title": "The Outdoor Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "80"
+          ]
+        },
+        "roomCount": {
+          "$id": "/properties/capacity/properties/roomCount",
+          "type": "string",
+          "title": "The Roomcount Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "3"
+          ]
+        },
+        "seated": {
+          "$id": "/properties/capacity/properties/seated",
+          "type": "string",
+          "title": "The Seated Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "0"
+          ]
+        },
+        "cocktail": {
+          "$id": "/properties/capacity/properties/cocktail",
+          "type": "string",
+          "title": "The Cocktail Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "0"
+          ]
+        }
+      }
+    },
+    "closures": {
+      "$id": "/properties/closures",
+      "type": "object",
+      "properties": {
+        "closureDay": {
+          "$id": "/properties/closures/properties/closureDay",
+          "type": "string",
+          "title": "The Closureday Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Dimanche"
+          ]
+        },
+        "closureSpan": {
+          "$id": "/properties/closures/properties/closureSpan",
+          "type": "string",
+          "title": "The Closurespan Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "toute la journ�e"
+          ]
+        }
+      }
+    },
+    "spaces": {
+      "$id": "/properties/spaces",
+      "type": "null",
+      "title": "The Spaces Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "openingHours": {
+      "$id": "/properties/openingHours",
+      "type": "string",
+      "title": "The Openinghours Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "12:00-14:00 - 19:30 -22:00"
+      ]
+    },
+    "closing": {
+      "$id": "/properties/closing",
+      "type": "string",
+      "title": "The Closing Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "01/12-30/04"
+      ]
+    }
+  }
+}
