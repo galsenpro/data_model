@@ -1,0 +1,16 @@
+{
+	"id": "SPOT-NCA-5029",
+	"type": "SmartPointOfInteraction",
+	"name": "DEPCOT",/*attribut ajoute !*/
+	"description": "DEPOT TRAM", /*attribut ajoute !*/
+	"category": ["information"],
+	"areaCovered": {                           
+		"type": "Polygon",
+		"coordinates": [[
+			[43.7018, 7.28081]
+			]]
+	},
+	"applicationUrl": "http://LinkOfApplication/",
+	"availability": null,
+	"refseeAlso": null
+}

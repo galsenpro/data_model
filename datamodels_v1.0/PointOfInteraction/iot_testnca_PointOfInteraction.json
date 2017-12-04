@@ -1,6 +1,8 @@
 {
 	"id": "SPOT-NCA-4326",
 	"type": "SmartPointOfInteraction",
+	"name": "SPOT-NCA-4326",
+	"description": "Description of SPOT-NCA-4326",
 	"category": ["information", "entertainment", "infotainment", "co-creation"],
 	"areaCovered": {                           
 		"type": "Polygon",

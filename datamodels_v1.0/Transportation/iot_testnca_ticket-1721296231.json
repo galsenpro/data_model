@@ -1,0 +1,34 @@
+{
+	"id": "1721296231",
+	"name": "1721296231's Name",
+	"description": "Description of Ticket 1721296231",
+	"dateIssued": "2017-04-01 09:25:00Z",
+	"issuedBy": "NCA METROPOLE",
+	"priceCurrency": null,
+	"ticketNumber": "1721296231",
+	"ticketToken": "TEXT or QR CODE",
+	"ticketedSeat": null,
+	"totalPrice": null,
+	"underName": null,
+	"validation": {
+		"line": "T1",
+		"validationType": "1",
+		"dateValidation": "2017-04-01 09:25:00.00Z",
+		"refStation": "SPOT-NCA-5029",
+		"direction": "Aller",
+		"position": ""
+	},
+	"codeTechno": "3",
+	"traveler": "1",
+	"reservationFor": {
+		"name": "EVENT-PUBLIC-NCA-8189",
+		"startDate": "2018-05-13T19:30:00-08:00",
+		"location": {
+			"name": "(INS)TABLE",
+			"address": {
+				"addressCountry": "FR",
+				"streetAddress": "3 rue Paganini"
+			}
+		}
+	}
+}

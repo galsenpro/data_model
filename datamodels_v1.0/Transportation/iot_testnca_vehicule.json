@@ -12,6 +12,6 @@
   "serviceStatus": "Ok",
   "serviceProvided": null,
   "areaServed": "Centro",
-  "refVehicleModel": "vehiclemodel:econic",
+  "refVehicleModel": "vehiclemodel:tramway-VT103",
   "vehiclePlateIdentifier": "3456ABC"
 }

@@ -6,4 +6,41 @@
   "vehicleType": "tramway",
   "cargoVolume": null,
   "fuelType": "electric"
+  /*
+  	Anti-patinage en cours
+	Cabine en service
+	Commande manuelle patins
+	Commande manuelle sablage
+	Compteur de sorties porte
+	Compteur d'entrées porte
+	Concentration de gaz irritant
+	Concentration Dioxyde d'Azote
+	Concentration Monoxyde de Carbone
+	CVS 24 volts
+	CVS 400 volts
+	Disjoncteur fermé
+	Etat du capteur de la porte
+	Frein déserré
+	Frein déserré
+	Frein serré
+	Frein serré
+	Freinage d’urgence sans patin
+	Freinage de secours
+	Humidité ambiante
+	Luminosité ambiante
+	Manipulateur en action
+	Manipulateur en freinage
+	Niveau de bruit ambiant
+	Niveau sablage arrière
+	Panto en position basse
+	Panto en position haute
+	Poids passager
+	Présence sous le capteur de la porte
+	Pression atmosphérique
+	Qualité de l'air
+	Statut du SENSE
+	Température
+	Tension ligne
+	Vitesse de référence
+  */
 }
