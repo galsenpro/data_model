@@ -1,0 +1,9 @@
+{
+  "id": "vehiclemodel:tramway-VT103",
+  "type": "VehicleModel",
+  "brandName": "Marque_Tramway",
+  "modelName": "Modele",
+  "vehicleType": "tramway",
+  "cargoVolume": null,
+  "fuelType": "electric"
+}

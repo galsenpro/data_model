@@ -1,0 +1,1202 @@
+[
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104064800;T1;Aller;1015;1;DEPCOT;DEPOT TRAM;064800;28/08/2017;064953"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104064800;T1;Aller;1015;2;LASPL1;HENRI SAPPIA;065500;28/08/2017;065238"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;3;LASPL1;HENRI SAPPIA;065501;28/08/2017;065308"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;4;COMTE2;COMTE DE FALICON;065635;28/08/2017;065516"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;5;LRAY13;LE RAY;065800;28/08/2017;065638"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;6;GORB14;GORBELLA;070000;28/08/2017;065754"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;7;VALRO5;VALROSE UNIV.;070211;28/08/2017;070032"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;8;BORRI6;BORRIGLIONE;070345;28/08/2017;070209"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;9;LIBER7;LIBERATION;070500;28/08/2017;070328"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;10;GARE18;GARE THIERS;070800;28/08/2017;070521"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;11;JMEDE9;JEAN MEDECIN;071000;28/08/2017;070703"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;12;MASSE0;MASSENA;071200;28/08/2017;070843"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;13;OPERA1;OPERA - V.VILLE;071300;28/08/2017;071027"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;14;CATHE2;CATHEDRALE-V.V.;071500;28/08/2017;071156"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;15;GARIB3;GARIBALDI;071600;28/08/2017;071333"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;16;ACROP4;ACROPOLIS;071800;28/08/2017;071444"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;17;PALAI5;PALAIS DES EXPO.;071913;28/08/2017;071606"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;18;VAUBA6;VAUBAN;072100;28/08/2017;071751"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;19;ANGEL7;ST-JEAN D'ANGELY;072300;28/08/2017;071904"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;20;ROCH28;SAINT ROCH;072448;28/08/2017;072045"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;21;VIRGI9;VIRGILE BAREL;072613;28/08/2017;072157"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;22;CHARL0;SAINT-CHARLES;072749;28/08/2017;072328"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;23;MICHE1;PONT MICHEL;073000;28/08/2017;072530"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;24;WPAST0;HOPITAL PASTEUR;073200;28/08/2017;072932"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;25;WPAST0;HOPITAL PASTEUR;073600;28/08/2017;073255"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;26;MICHE2;PONT MICHEL;073800;28/08/2017;073510"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;27;CHARL2;SAINT-CHARLES;074012;28/08/2017;073728"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;28;VIRGI3;VIRGILE BAREL;074151;28/08/2017;073842"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;29;ROCH34;SAINT ROCH;074319;28/08/2017;073958"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;30;ANGEL5;ST-JEAN D'ANGELY;074500;28/08/2017;074142"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;31;VAUB36;VAUBAN;074600;28/08/2017;074305"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;32;PALAI7;PALAIS DES EXPO.;074747;28/08/2017;074524"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;33;ACROP8;ACROPOLIS;074900;28/08/2017;074649"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;34;GARB39;GARIBALDI;075100;28/08/2017;074826"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;35;CATHE0;CATHEDRALE-V.V.;075300;28/08/2017;075003"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;36;OPER41;OPERA - V.VILLE;075500;28/08/2017;075115"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;37;MASSE2;MASSENA;075800;28/08/2017;075327"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;38;JMECE3;JEAN MEDECIN;075900;28/08/2017;075503"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;39;GARET4;GARE THIERS;080100;28/08/2017;075647"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;40;LIBER5;LIBERATION;080300;28/08/2017;075830"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;41;BORR46;BORRIGLIONE;080411;28/08/2017;080000"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;42;VALRO7;VALROSE UNIV.;080542;28/08/2017;080138"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;43;GORB48;GORBELLA;080800;28/08/2017;080402"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;44;LERAY9;LE RAY;081000;28/08/2017;080522"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;45;COMT50;COMTE DE FALICON;081123;28/08/2017;080640"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104073600;T1;Retour;1015;46;LASP51;HENRI SAPPIA;081300;28/08/2017;080757"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;47;LASPL1;HENRI SAPPIA;082200;28/08/2017;081600"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;48;COMTE2;COMTE DE FALICON;082335;28/08/2017;081814"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;49;LRAY13;LE RAY;082500;28/08/2017;081941"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;50;GORB14;GORBELLA;082800;28/08/2017;082105"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;51;VALRO5;VALROSE UNIV.;083037;28/08/2017;082353"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;52;BORRI6;BORRIGLIONE;083230;28/08/2017;082519"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;53;LIBER7;LIBERATION;083400;28/08/2017;082637"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;54;GARE18;GARE THIERS;083700;28/08/2017;082832"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;55;JMEDE9;JEAN MEDECIN;083900;28/08/2017;083006"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;56;MASSE0;MASSENA;084100;28/08/2017;083144"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;57;OPERA1;OPERA - V.VILLE;084200;28/08/2017;083351"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;58;CATHE2;CATHEDRALE-V.V.;084400;28/08/2017;083651"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;59;GARIB3;GARIBALDI;084500;28/08/2017;083914"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;60;ACROP4;ACROPOLIS;084700;28/08/2017;084026"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;61;PALAI5;PALAIS DES EXPO.;084813;28/08/2017;084148"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;62;VAUBA6;VAUBAN;085000;28/08/2017;084333"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;63;ANGEL7;ST-JEAN D'ANGELY;085200;28/08/2017;084435"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;64;ROCH28;SAINT ROCH;085348;28/08/2017;084618"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;65;VIRGI9;VIRGILE BAREL;085513;28/08/2017;084753"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;66;CHARL0;SAINT-CHARLES;085649;28/08/2017;084909"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;67;MICHE1;PONT MICHEL;085900;28/08/2017;085110"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104082200;T1;Aller;1015;68;WPAST1;HOPITAL PASTEUR;090100;28/08/2017;085245"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;69;WPAST1;HOPITAL PASTEUR;090500;28/08/2017;085916"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;70;MICHE2;PONT MICHEL;090700;28/08/2017;090142"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;71;CHARL2;SAINT-CHARLES;090912;28/08/2017;090327"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;72;VIRGI3;VIRGILE BAREL;091051;28/08/2017;090442"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;73;ROCH34;SAINT ROCH;091219;28/08/2017;090557"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;74;ANGEL5;ST-JEAN D'ANGELY;091400;28/08/2017;090745"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;75;VAUB36;VAUBAN;091500;28/08/2017;090906"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;76;PALAI7;PALAIS DES EXPO.;091722;28/08/2017;091113"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;77;ACROP8;ACROPOLIS;091900;28/08/2017;091232"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;78;GARB39;GARIBALDI;092100;28/08/2017;091424"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;79;CATHE0;CATHEDRALE-V.V.;092300;28/08/2017;091615"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;80;OPER41;OPERA - V.VILLE;092500;28/08/2017;091745"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;81;MASSE2;MASSENA;092800;28/08/2017;092019"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;82;JMECE3;JEAN MEDECIN;092900;28/08/2017;092156"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;83;GARET4;GARE THIERS;093100;28/08/2017;092341"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;84;LIBER5;LIBERATION;093300;28/08/2017;092554"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;85;BORR46;BORRIGLIONE;093426;28/08/2017;092715"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;86;VALRO7;VALROSE UNIV.;093615;28/08/2017;092903"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;87;GORB48;GORBELLA;093900;28/08/2017;093115"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;88;LERAY9;LE RAY;094100;28/08/2017;093236"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;89;COMT50;COMTE DE FALICON;094223;28/08/2017;093403"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104090500;T1;Retour;1015;90;LASP51;HENRI SAPPIA;094400;28/08/2017;093518"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;91;LASPL1;HENRI SAPPIA;095100;28/08/2017;094418"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;92;COMTE2;COMTE DE FALICON;095235;28/08/2017;094631"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;93;LRAY13;LE RAY;095400;28/08/2017;094817"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;94;GORB14;GORBELLA;095700;28/08/2017;094935"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;95;VALRO5;VALROSE UNIV.;095937;28/08/2017;095216"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;96;BORRI6;BORRIGLIONE;100130;28/08/2017;095359"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;97;LIBER7;LIBERATION;100300;28/08/2017;095530"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;98;GARE18;GARE THIERS;100600;28/08/2017;095756"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;99;JMEDE9;JEAN MEDECIN;100800;28/08/2017;095955"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;100;MASSE0;MASSENA;101000;28/08/2017;100140"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;101;OPERA1;OPERA - V.VILLE;101100;28/08/2017;100334"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;102;CATHE2;CATHEDRALE-V.V.;101300;28/08/2017;100452"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;103;GARIB3;GARIBALDI;101500;28/08/2017;100658"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;104;ACROP4;ACROPOLIS;101700;28/08/2017;100832"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;105;PALAI5;PALAIS DES EXPO.;101813;28/08/2017;100957"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;106;VAUBA6;VAUBAN;102000;28/08/2017;101150"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;107;ANGEL7;ST-JEAN D'ANGELY;102200;28/08/2017;101259"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;108;ROCH28;SAINT ROCH;102348;28/08/2017;101441"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;109;VIRGI9;VIRGILE BAREL;102513;28/08/2017;101559"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;110;CHARL0;SAINT-CHARLES;102649;28/08/2017;101712"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;111;MICHE1;PONT MICHEL;102900;28/08/2017;101926"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104095100;T1;Aller;1015;112;WPAST0;HOPITAL PASTEUR;103100;28/08/2017;102135"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;113;WPAST0;HOPITAL PASTEUR;103500;28/08/2017;103005"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;114;MICHE2;PONT MICHEL;103700;28/08/2017;103222"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;115;CHARL2;SAINT-CHARLES;103912;28/08/2017;103427"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;116;VIRGI3;VIRGILE BAREL;104051;28/08/2017;103544"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;117;ROCH34;SAINT ROCH;104219;28/08/2017;103711"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;118;ANGEL5;ST-JEAN D'ANGELY;104400;28/08/2017;103913"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;119;VAUB36;VAUBAN;104500;28/08/2017;104022"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;120;PALAI7;PALAIS DES EXPO.;104722;28/08/2017;104241"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;121;ACROP8;ACROPOLIS;104900;28/08/2017;104414"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;122;GARB39;GARIBALDI;105100;28/08/2017;104621"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;123;CATHE0;CATHEDRALE-V.V.;105300;28/08/2017;104913"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;124;OPER41;OPERA - V.VILLE;105500;28/08/2017;111213"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;125;MASSE2;MASSENA;105800;28/08/2017;111441"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;126;JMECE3;JEAN MEDECIN;105900;28/08/2017;111638"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;127;GARET4;GARE THIERS;110100;28/08/2017;111823"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;128;LIBER5;LIBERATION;110300;28/08/2017;112014"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;129;BORR46;BORRIGLIONE;110426;28/08/2017;112138"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;130;VALRO7;VALROSE UNIV.;110615;28/08/2017;112324"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;131;GORB48;GORBELLA;110900;28/08/2017;112552"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;132;LERAY9;LE RAY;111100;28/08/2017;112709"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;133;COMT50;COMTE DE FALICON;111223;28/08/2017;112834"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104103500;T1;Retour;1015;134;LASP51;HENRI SAPPIA;111400;28/08/2017;112955"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;135;LASPL1;HENRI SAPPIA;112200;28/08/2017;113725"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;136;COMTE2;COMTE DE FALICON;112335;28/08/2017;113938"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;137;LRAY13;LE RAY;112500;28/08/2017;114107"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;138;GORB14;GORBELLA;112800;28/08/2017;114225"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;139;VALRO5;VALROSE UNIV.;113037;28/08/2017;114438"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;140;BORRI6;BORRIGLIONE;113230;28/08/2017;114616"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;141;LIBER7;LIBERATION;113400;28/08/2017;114732"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;142;GARE18;GARE THIERS;113700;28/08/2017;115001"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;143;JMEDE9;JEAN MEDECIN;113900;28/08/2017;115154"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;144;MASSE0;MASSENA;114100;28/08/2017;115340"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;145;OPERA1;OPERA - V.VILLE;114200;28/08/2017;115542"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;146;CATHE2;CATHEDRALE-V.V.;114400;28/08/2017;115707"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;147;GARIB3;GARIBALDI;114600;28/08/2017;115916"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;148;ACROP4;ACROPOLIS;114800;28/08/2017;120039"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;149;PALAI5;PALAIS DES EXPO.;114913;28/08/2017;120220"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;150;VAUBA6;VAUBAN;115100;28/08/2017;120422"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;151;ANGEL7;ST-JEAN D'ANGELY;115300;28/08/2017;120536"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;152;ROCH28;SAINT ROCH;115448;28/08/2017;120812"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;153;VIRGI9;VIRGILE BAREL;115613;28/08/2017;120956"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;154;CHARL0;SAINT-CHARLES;115749;28/08/2017;121123"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;155;MICHE1;PONT MICHEL;120000;28/08/2017;121344"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104112200;T1;Aller;1015;156;WPAST1;HOPITAL PASTEUR;120200;28/08/2017;121602"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;157;WPAST1;HOPITAL PASTEUR;120600;28/08/2017;122018"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;158;MICHE2;PONT MICHEL;120800;28/08/2017;122259"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;159;CHARL2;SAINT-CHARLES;121012;28/08/2017;122503"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;160;VIRGI3;VIRGILE BAREL;121151;28/08/2017;122628"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;161;ROCH34;SAINT ROCH;121319;28/08/2017;122744"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;162;ANGEL5;ST-JEAN D'ANGELY;121500;28/08/2017;122942"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;163;VAUB36;VAUBAN;121600;28/08/2017;123059"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;164;PALAI7;PALAIS DES EXPO.;121822;28/08/2017;123342"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;165;ACROP8;ACROPOLIS;122000;28/08/2017;123510"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;166;GARB39;GARIBALDI;122200;28/08/2017;123711"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;167;CATHE0;CATHEDRALE-V.V.;122400;28/08/2017;123854"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;168;OPER41;OPERA - V.VILLE;122600;28/08/2017;124029"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;169;MASSE2;MASSENA;122900;28/08/2017;124233"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;170;JMECE3;JEAN MEDECIN;123000;28/08/2017;124416"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;171;GARET4;GARE THIERS;123300;28/08/2017;124624"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;172;LIBER5;LIBERATION;123500;28/08/2017;124810"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;173;BORR46;BORRIGLIONE;123611;28/08/2017;124934"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;174;VALRO7;VALROSE UNIV.;123742;28/08/2017;125118"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;175;GORB48;GORBELLA;124000;28/08/2017;125358"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;176;LERAY9;LE RAY;124200;28/08/2017;125528"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;177;COMT50;COMTE DE FALICON;124323;28/08/2017;125652"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104120600;T1;Retour;1015;178;LASP51;HENRI SAPPIA;124500;28/08/2017;125823"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;179;LASPL1;HENRI SAPPIA;125200;28/08/2017;130508"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;180;COMTE2;COMTE DE FALICON;125335;28/08/2017;130708"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;181;LRAY13;LE RAY;125500;28/08/2017;130852"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;182;GORB14;GORBELLA;125800;28/08/2017;131016"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;183;VALRO5;VALROSE UNIV.;130037;28/08/2017;131236"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;184;BORRI6;BORRIGLIONE;130230;28/08/2017;131412"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;185;LIBER7;LIBERATION;130400;28/08/2017;131600"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;186;GARE18;GARE THIERS;130700;28/08/2017;131834"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;187;JMEDE9;JEAN MEDECIN;130900;28/08/2017;132027"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;188;MASSE0;MASSENA;131100;28/08/2017;132228"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;189;OPERA1;OPERA - V.VILLE;131200;28/08/2017;132437"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;190;CATHE2;CATHEDRALE-V.V.;131400;28/08/2017;132558"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;191;GARIB3;GARIBALDI;131600;28/08/2017;132806"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;192;ACROP4;ACROPOLIS;131800;28/08/2017;132933"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;193;PALAI5;PALAIS DES EXPO.;131913;28/08/2017;133111"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;194;VAUBA6;VAUBAN;132100;28/08/2017;133316"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;195;ANGEL7;ST-JEAN D'ANGELY;132300;28/08/2017;133430"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;196;ROCH28;SAINT ROCH;132448;28/08/2017;133609"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;197;VIRGI9;VIRGILE BAREL;132613;28/08/2017;133727"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;198;CHARL0;SAINT-CHARLES;132749;28/08/2017;133846"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;199;MICHE1;PONT MICHEL;133000;28/08/2017;134047"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104125200;T1;Aller;1015;200;WPAST0;HOPITAL PASTEUR;133200;28/08/2017;134226"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;201;WPAST0;HOPITAL PASTEUR;133600;28/08/2017;134611"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;202;MICHE2;PONT MICHEL;133800;28/08/2017;134832"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;203;CHARL2;SAINT-CHARLES;134012;28/08/2017;135034"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;204;VIRGI3;VIRGILE BAREL;134151;28/08/2017;135148"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;205;ROCH34;SAINT ROCH;134319;28/08/2017;135300"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;206;ANGEL5;ST-JEAN D'ANGELY;134500;28/08/2017;135500"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;207;VAUB36;VAUBAN;134600;28/08/2017;135631"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;208;PALAI7;PALAIS DES EXPO.;134822;28/08/2017;135841"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;209;ACROP8;ACROPOLIS;135000;28/08/2017;140007"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;210;GARB39;GARIBALDI;135200;28/08/2017;140141"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;211;CATHE0;CATHEDRALE-V.V.;135400;28/08/2017;140339"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;212;OPER41;OPERA - V.VILLE;135600;28/08/2017;140518"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;213;MASSE2;MASSENA;135900;28/08/2017;140807"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;214;JMECE3;JEAN MEDECIN;140000;28/08/2017;141013"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;215;GARET4;GARE THIERS;140300;28/08/2017;141215"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;216;LIBER5;LIBERATION;140500;28/08/2017;141415"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;217;BORR46;BORRIGLIONE;140611;28/08/2017;141549"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;218;VALRO7;VALROSE UNIV.;140742;28/08/2017;141803"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;219;GORB48;GORBELLA;141000;28/08/2017;142021"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;220;LERAY9;LE RAY;141200;28/08/2017;142154"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;221;COMT50;COMTE DE FALICON;141323;28/08/2017;142313"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104133600;T1;Retour;1015;222;LASP51;HENRI SAPPIA;141500;28/08/2017;142428"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;223;LASPL1;HENRI SAPPIA;142200;28/08/2017;143116"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;224;COMTE2;COMTE DE FALICON;142335;28/08/2017;143327"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;225;LRAY13;LE RAY;142500;28/08/2017;143517"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;226;GORB14;GORBELLA;142800;28/08/2017;143702"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;227;VALRO5;VALROSE UNIV.;143037;28/08/2017;144004"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;228;BORRI6;BORRIGLIONE;143230;28/08/2017;144249"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;229;LIBER7;LIBERATION;143400;28/08/2017;144420"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;230;GARE18;GARE THIERS;143700;28/08/2017;144623"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;231;JMEDE9;JEAN MEDECIN;143900;28/08/2017;144833"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;232;MASSE0;MASSENA;144100;28/08/2017;145047"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;233;OPERA1;OPERA - V.VILLE;144200;28/08/2017;145255"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;234;CATHE2;CATHEDRALE-V.V.;144400;28/08/2017;145433"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;235;GARIB3;GARIBALDI;144600;28/08/2017;145638"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;236;ACROP4;ACROPOLIS;144800;28/08/2017;145830"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;237;PALAI5;PALAIS DES EXPO.;144913;28/08/2017;150005"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;238;VAUBA6;VAUBAN;145100;28/08/2017;150209"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;239;ANGEL7;ST-JEAN D'ANGELY;145300;28/08/2017;150319"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;240;ROCH28;SAINT ROCH;145448;28/08/2017;150510"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;241;VIRGI9;VIRGILE BAREL;145613;28/08/2017;150628"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;242;CHARL0;SAINT-CHARLES;145749;28/08/2017;150755"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;243;MICHE1;PONT MICHEL;150000;28/08/2017;151010"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104142200;T1;Aller;1015;244;WPAST1;HOPITAL PASTEUR;150200;28/08/2017;151213"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;245;WPAST1;HOPITAL PASTEUR;150600;28/08/2017;151413"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;246;MICHE2;PONT MICHEL;150800;28/08/2017;151643"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;247;CHARL2;SAINT-CHARLES;151012;28/08/2017;151900"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;248;VIRGI3;VIRGILE BAREL;151151;28/08/2017;152018"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;249;ROCH34;SAINT ROCH;151319;28/08/2017;152153"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;250;ANGEL5;ST-JEAN D'ANGELY;151500;28/08/2017;152350"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;251;VAUB36;VAUBAN;151600;28/08/2017;152521"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;252;PALAI7;PALAIS DES EXPO.;151822;28/08/2017;152748"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;253;ACROP8;ACROPOLIS;152000;28/08/2017;152927"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;254;GARB39;GARIBALDI;152200;28/08/2017;153125"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;255;CATHE0;CATHEDRALE-V.V.;152400;28/08/2017;153757"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;256;OPER41;OPERA - V.VILLE;152600;28/08/2017;153930"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;257;MASSE2;MASSENA;152900;28/08/2017;154246"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;258;JMECE3;JEAN MEDECIN;153000;28/08/2017;154459"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;259;GARET4;GARE THIERS;153300;28/08/2017;154706"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;260;LIBER5;LIBERATION;153500;28/08/2017;154919"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;261;BORR46;BORRIGLIONE;153611;28/08/2017;155042"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;262;VALRO7;VALROSE UNIV.;153742;28/08/2017;155308"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;263;GORB48;GORBELLA;154000;28/08/2017;155532"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;264;LERAY9;LE RAY;154200;28/08/2017;155647"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;265;COMT50;COMTE DE FALICON;154323;28/08/2017;155827"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104150600;T1;Retour;1015;266;LASP51;HENRI SAPPIA;154500;28/08/2017;160024"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;267;LASPL1;HENRI SAPPIA;155200;28/08/2017;160354"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;268;COMTE2;COMTE DE FALICON;155335;28/08/2017;160554"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;269;LRAY13;LE RAY;155500;28/08/2017;160727"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;270;GORB14;GORBELLA;155800;28/08/2017;160844"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;271;VALRO5;VALROSE UNIV.;160037;28/08/2017;161102"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;272;BORRI6;BORRIGLIONE;160230;28/08/2017;161229"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;273;LIBER7;LIBERATION;160400;28/08/2017;161420"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;274;GARE18;GARE THIERS;160700;28/08/2017;161703"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;275;JMEDE9;JEAN MEDECIN;160900;28/08/2017;161903"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;276;MASSE0;MASSENA;161100;28/08/2017;162125"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;277;OPERA1;OPERA - V.VILLE;161200;28/08/2017;162350"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;278;CATHE2;CATHEDRALE-V.V.;161400;28/08/2017;162548"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;279;GARIB3;GARIBALDI;161600;28/08/2017;162743"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;280;ACROP4;ACROPOLIS;161800;28/08/2017;162910"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;281;PALAI5;PALAIS DES EXPO.;161913;28/08/2017;163053"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;282;VAUBA6;VAUBAN;162100;28/08/2017;163246"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;283;ANGEL7;ST-JEAN D'ANGELY;162300;28/08/2017;163410"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;284;ROCH28;SAINT ROCH;162448;28/08/2017;163551"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;285;VIRGI9;VIRGILE BAREL;162613;28/08/2017;163703"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;286;CHARL0;SAINT-CHARLES;162749;28/08/2017;163836"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;287;MICHE1;PONT MICHEL;163000;28/08/2017;164053"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104155200;T1;Aller;1015;288;WPAST0;HOPITAL PASTEUR;163200;28/08/2017;164234"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;289;WPAST0;HOPITAL PASTEUR;163600;28/08/2017;164519"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;290;MICHE2;PONT MICHEL;163800;28/08/2017;164746"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;291;CHARL2;SAINT-CHARLES;164012;28/08/2017;164944"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;292;VIRGI3;VIRGILE BAREL;164151;28/08/2017;165106"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;293;ROCH34;SAINT ROCH;164319;28/08/2017;165232"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;294;ANGEL5;ST-JEAN D'ANGELY;164500;28/08/2017;165423"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;295;VAUB36;VAUBAN;164600;28/08/2017;165553"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;296;PALAI7;PALAIS DES EXPO.;164822;28/08/2017;165913"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;297;ACROP8;ACROPOLIS;165000;28/08/2017;170042"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;298;GARB39;GARIBALDI;165200;28/08/2017;170231"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;299;CATHE0;CATHEDRALE-V.V.;165400;28/08/2017;170453"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;300;OPER41;OPERA - V.VILLE;165600;28/08/2017;170648"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;301;MASSE2;MASSENA;165900;28/08/2017;170913"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;302;JMECE3;JEAN MEDECIN;170100;28/08/2017;171114"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;303;GARET4;GARE THIERS;170400;28/08/2017;171326"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;304;LIBER5;LIBERATION;170600;28/08/2017;171514"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;305;BORR46;BORRIGLIONE;170711;28/08/2017;171640"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;306;VALRO7;VALROSE UNIV.;170842;28/08/2017;171817"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;307;GORB48;GORBELLA;171100;28/08/2017;172046"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;308;LERAY9;LE RAY;171300;28/08/2017;172226"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;309;COMT50;COMTE DE FALICON;171423;28/08/2017;172356"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104163600;T1;Retour;1015;310;LASP51;HENRI SAPPIA;171600;28/08/2017;172519"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;311;LASPL1;HENRI SAPPIA;172300;28/08/2017;173007"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;312;COMTE2;COMTE DE FALICON;172435;28/08/2017;173249"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;313;LRAY13;LE RAY;172600;28/08/2017;173427"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;314;GORB14;GORBELLA;172800;28/08/2017;173551"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;315;VALRO5;VALROSE UNIV.;173037;28/08/2017;173818"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;316;BORRI6;BORRIGLIONE;173230;28/08/2017;173951"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;317;LIBER7;LIBERATION;173400;28/08/2017;174117"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;318;GARE18;GARE THIERS;173700;28/08/2017;174322"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;319;JMEDE9;JEAN MEDECIN;174000;28/08/2017;174535"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;320;MASSE0;MASSENA;174200;28/08/2017;174730"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;321;OPERA1;OPERA - V.VILLE;174400;28/08/2017;174942"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;322;CATHE2;CATHEDRALE-V.V.;174600;28/08/2017;175214"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;323;GARIB3;GARIBALDI;174800;28/08/2017;175427"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;324;ACROP4;ACROPOLIS;175000;28/08/2017;175604"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;325;PALAI5;PALAIS DES EXPO.;175113;28/08/2017;175750"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;326;VAUBA6;VAUBAN;175300;28/08/2017;175944"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;327;ANGEL7;ST-JEAN D'ANGELY;175500;28/08/2017;180056"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;328;ROCH28;SAINT ROCH;175648;28/08/2017;180244"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;329;VIRGI9;VIRGILE BAREL;175813;28/08/2017;180409"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;330;CHARL0;SAINT-CHARLES;175949;28/08/2017;180539"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;331;MICHE1;PONT MICHEL;180200;28/08/2017;180755"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104172300;T1;Aller;1015;332;WPAST1;HOPITAL PASTEUR;180400;28/08/2017;180932"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;333;WPAST1;HOPITAL PASTEUR;180800;28/08/2017;181219"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;334;MICHE2;PONT MICHEL;181000;28/08/2017;181526"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;335;CHARL2;SAINT-CHARLES;181212;28/08/2017;181717"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;336;VIRGI3;VIRGILE BAREL;181351;28/08/2017;181851"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;337;ROCH34;SAINT ROCH;181519;28/08/2017;181947"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;338;ANGEL5;ST-JEAN D'ANGELY;181700;28/08/2017;182127"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;339;VAUB36;VAUBAN;181800;28/08/2017;182254"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;340;PALAI7;PALAIS DES EXPO.;182022;28/08/2017;182520"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;341;ACROP8;ACROPOLIS;182200;28/08/2017;182658"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;342;GARB39;GARIBALDI;182400;28/08/2017;182904"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;343;CATHE0;CATHEDRALE-V.V.;182600;28/08/2017;183108"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;344;OPER41;OPERA - V.VILLE;182800;28/08/2017;183235"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;345;MASSE2;MASSENA;183100;28/08/2017;183506"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;346;JMECE3;JEAN MEDECIN;183200;28/08/2017;183652"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;347;GARET4;GARE THIERS;183500;28/08/2017;183850"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;348;LIBER5;LIBERATION;183700;28/08/2017;184048"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;349;BORR46;BORRIGLIONE;183811;28/08/2017;184212"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;350;VALRO7;VALROSE UNIV.;183942;28/08/2017;184341"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;351;GORB48;GORBELLA;184200;28/08/2017;184625"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;352;LERAY9;LE RAY;184400;28/08/2017;184803"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;353;COMT50;COMTE DE FALICON;184523;28/08/2017;184958"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104180800;T1;Retour;1015;354;LASP51;HENRI SAPPIA;184700;28/08/2017;185125"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;355;LASPL1;HENRI SAPPIA;185700;28/08/2017;185800"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;356;COMTE2;COMTE DE FALICON;185835;28/08/2017;185943"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;357;LRAY13;LE RAY;190000;28/08/2017;190114"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;358;GORB14;GORBELLA;190200;28/08/2017;190304"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;359;VALRO5;VALROSE UNIV.;190411;28/08/2017;190519"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;360;BORRI6;BORRIGLIONE;190545;28/08/2017;190657"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;361;LIBER7;LIBERATION;190700;28/08/2017;190814"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;362;GARE18;GARE THIERS;191000;28/08/2017;191105"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;363;JMEDE9;JEAN MEDECIN;191200;28/08/2017;191255"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;364;MASSE0;MASSENA;191400;28/08/2017;191453"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;365;OPERA1;OPERA - V.VILLE;191600;28/08/2017;191652"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;366;CATHE2;CATHEDRALE-V.V.;191800;28/08/2017;191846"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;367;GARIB3;GARIBALDI;192000;28/08/2017;192047"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;368;ACROP4;ACROPOLIS;192200;28/08/2017;192239"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;369;PALAI5;PALAIS DES EXPO.;192313;28/08/2017;192359"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;370;VAUBA6;VAUBAN;192500;28/08/2017;192555"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;371;ANGEL7;ST-JEAN D'ANGELY;192700;28/08/2017;192744"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;372;ROCH28;SAINT ROCH;192848;28/08/2017;192932"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;373;VIRGI9;VIRGILE BAREL;193013;28/08/2017;193057"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;374;CHARL0;SAINT-CHARLES;193149;28/08/2017;193234"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;375;MICHE1;PONT MICHEL;193400;28/08/2017;193508"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104185700;T1;Aller;1015;376;WPAST0;HOPITAL PASTEUR;193600;28/08/2017;193713"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;377;WPAST0;HOPITAL PASTEUR;194000;28/08/2017;194000"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;378;MICHE2;PONT MICHEL;194200;28/08/2017;194200"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;379;CHARL2;SAINT-CHARLES;194353;28/08/2017;194356"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;380;VIRGI3;VIRGILE BAREL;194518;28/08/2017;194523"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;381;ROCH34;SAINT ROCH;194633;28/08/2017;194640"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;382;ANGEL5;ST-JEAN D'ANGELY;194800;28/08/2017;194808"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;383;VAUB36;VAUBAN;194900;28/08/2017;194908"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;384;PALAI7;PALAIS DES EXPO.;195047;28/08/2017;195059"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;385;ACROP8;ACROPOLIS;195200;28/08/2017;195215"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;386;GARB39;GARIBALDI;195400;28/08/2017;195406"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;387;CATHE0;CATHEDRALE-V.V.;195600;28/08/2017;195605"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;388;OPER41;OPERA - V.VILLE;195800;28/08/2017;195758"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;389;MASSE2;MASSENA;200100;28/08/2017;200045"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;390;JMECE3;JEAN MEDECIN;200200;28/08/2017;200150"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;391;GARET4;GARE THIERS;200400;28/08/2017;200346"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;392;LIBER5;LIBERATION;200600;28/08/2017;200542"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;393;BORR46;BORRIGLIONE;200711;28/08/2017;200656"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;394;VALRO7;VALROSE UNIV.;200842;28/08/2017;200829"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;395;GORB48;GORBELLA;201100;28/08/2017;201050"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;396;LERAY9;LE RAY;201300;28/08/2017;201241"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;397;COMT50;COMTE DE FALICON;201423;28/08/2017;201640"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104194000;T1;Retour;1015;398;LASP51;HENRI SAPPIA;201600;28/08/2017;201807"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104201601;T1;Retour;1015;399;LASP51;HENRI SAPPIA;201601;28/08/2017;202023"
+    },
+    {
+        "Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104201601;T1;Retour;1015;400;DEPCOT;DEPOT TRAM;202100;28/08/2017;203331"
+    }
+]

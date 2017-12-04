@@ -1,0 +1,15 @@
+[
+	{
+		"Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": 
+		"18;1;VT104064800;T1;Aller;1015;1;DEPCOT;DEPOT TRAM;064800;28/08/2017;064953"
+	},
+	{
+		"Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104064800;T1;Aller;1015;2;LASPL1;HENRI SAPPIA;065500;28/08/2017;065238"
+	},
+	{
+		"Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;3;LASPL1;HENRI SAPPIA;065501;28/08/2017;065308"
+	},
+	{
+		"Identificateur de la P.A;Identificateur du type de jour;Voyage;Ligne;Direction;Voiture;Rang;Identificateur de l'arret;Description de l'arret;Heure planifiée;Date mesurée;Heure mesurée": "18;1;VT104065501;T1;Aller;1015;4;COMTE2;COMTE DE FALICON;065635;28/08/2017;065516"
+	}
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Num_Arret": "5011",
+        "Rang_Course": "1",
+        "Nom_Arret": "HENRI SAPPIA",
+        "Montées": "0",
+        "SV": "3",
+        "Date_Exploitation": "2017/07/08",
+        "Heure_Deb_Course_Theo": "06:30:00  ",
+        "Heure_Arret_Theo": "06:37:00",
+        "Descentes": "0",
+        "VT": "VT103",
+        "Rame": "1015",
+        "Sens": "A"
+    },
+    {
+        "Num_Arret": "5011",
+        "Rang_Course": "2",
+        "Nom_Arret": "HENRI SAPPIA",
+        "Montées": "0",
+        "SV": "3",
+        "Date_Exploitation": "2017/07/08",
+        "Heure_Deb_Course_Theo": "06:37:01  ",
+        "Heure_Arret_Theo": "06:37:00  ",
+        "Descentes": "0",
+        "VT": "VT103",
+        "Rame": "1015",
+        "Sens": "A"
+    },
+    {
+        "Num_Arret": "5012",
+        "Rang_Course": "2",
+        "Nom_Arret": "COMTE DE FALICON",
+        "Montées": "0",
+        "SV": "3",
+        "Date_Exploitation": "2017/07/08",
+        "Heure_Deb_Course_Theo": "06:37:01  ",
+        "Heure_Arret_Theo": "06:38:34  ",
+        "Descentes": "0",
+        "VT": "VT103",
+        "Rame": "1015",
+        "Sens": "A"
+    },
+    {
+        "Num_Arret": "5013",
+        "Rang_Course": "2",
+        "Nom_Arret": "LE RAY",
+        "Montées": "0",
+        "SV": "3",
+        "Date_Exploitation": "2017/07/08",
+        "Heure_Deb_Course_Theo": "06:37:01  ",
+        "Heure_Arret_Theo": "06:39:59  ",
+        "Descentes": "0",
+        "VT": "VT103",
+        "Rame": "1015",
+        "Sens": "A"
+    }
+]
