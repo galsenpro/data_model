@@ -1,0 +1,65 @@
+{
+	"id": "LEVENS-WeatherObserved-060750-2017-12-01T01:00:00",
+	"type": "WeatherObserved",
+	"name": "LEVENS",
+	"stationName": "LEVENS STATION",
+	"stationCode": "060750",
+	"address": {
+		"postalCode": "06670",
+		"addressLocality": "Levens",
+		"addressRegion": "Alpes Maritimes",
+		"addressCountry": "France",
+		"streetAddress": "Chemin de la Môle"
+	},
+	"location": {
+		"type": "Point",
+		"coordinates": [
+			7.21,
+			43.845
+		]
+	},
+	"dateModified": "2017-12-01T01:00:00.00Z",
+	"dateObserved": "2016-11-30T07:00:00.00Z",
+	"source": "http://www.meteo.fr/partenaire/xml/NICE_CA_031962/xml/Flux_NiceCA.xml",
+	"refDevice": null,
+	"refPointOfInterest": null,
+	"weatherType": "CODE PICTO",
+	"temperature": -1,
+	"windDirection": [
+		{
+			"distance": "1500",
+			"wind": 355
+		},
+		{
+			"distance": "3000",
+			"wind": 60
+		}
+	],
+	"windSpeed": [
+		{
+			"distance": "1500",
+			"wind": 5
+		},
+		{
+			"distance": "3000",
+			"wind": 5
+		}
+	],
+	"windGust": 0,
+	"relativeHumidity": 50,
+	"isoElevation": 15,
+	"limitRainSnow": 51,
+	"seaStatus": 1,
+	"swellDirection": null,
+	"swellHeight": null,
+	"nebulosity": 0,
+	"cloudBase": null,
+	"cloudTop": null,
+	"snowTickness": null,
+	"visibility": null,
+	"pressureTendency": null,
+	"precipitation": 0,
+	"barometricPressure": 938.9,
+	"solarRadiation": null,
+	"dataProvider": "TEF"
+}

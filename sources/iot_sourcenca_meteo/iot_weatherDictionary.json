@@ -1,0 +1,63 @@
+{
+	"table": [
+		{
+			"@type": "pamamWeather",
+			"codes": [
+				{
+					"key": "PICTO",
+					"default": "P0",
+					"unitCode": null,
+					"description": "Code du pictogramme décrivant le temps"
+				},
+				{
+					"key": "T",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Temperature en degre celcius"
+				},
+				{
+					"key": "TN",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Température minimale du jour en degré Celsius"
+				},
+				{
+					"key": "TX",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Température maximale du jour en degré Celsius"
+				},
+				{
+					"key": "TMER",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Température de la mer en degré Celsius"
+				},
+				{
+					"key": "DD",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Direction du vent"
+				},
+				{
+					"key": "RR6",
+					"default": "-99",
+					"unitCode": null,
+					"description": "Force du vent en km/h"
+				},
+				{
+					"key": "DD1500M",
+					"default": "-99",
+					"unitCode": null,
+					"description": null
+				},
+				{
+					"key": "RR",
+					"default": "-99",
+					"unitCode": null,
+					"description": null
+				}
+			]
+		}
+	]
+}

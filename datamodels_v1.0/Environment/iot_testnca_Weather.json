@@ -1,0 +1,10 @@
+{
+	"id": null,
+	"dateObserved": null,
+	"previsions": [{
+		"today": "2001-04-13T13:00:00Z",
+		"nextOne": null,
+		"nextTwo" : null,
+		"nextTree": null
+	}]
+}
