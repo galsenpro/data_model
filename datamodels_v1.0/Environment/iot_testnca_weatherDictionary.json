@@ -2,65 +2,65 @@
 	"table": [
 		{
 			"@type": "pamamWeather",
-			"codes": [
+			"picto": [
 				{
-					"key": "PICTO",
+					"code": "PICTO",
 					"default": "P0",
 					"unitCode": null,
 					"description": "Code du pictogramme décrivant le temps",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "T",
+					"code": "T",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Temperature en degre celcius",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "TN",
+					"code": "TN",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Température minimale du jour en degré Celsius",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "TX",
+					"code": "TX",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Température maximale du jour en degré Celsius",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "TMER",
+					"code": "TMER",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Température de la mer en degré Celsius",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "DD",
+					"code": "DD",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Direction du vent",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "RR6",
+					"code": "RR6",
 					"default": "-99",
 					"unitCode": null,
 					"description": "Force du vent en km/h",
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "DD1500M",
+					"code": "DD1500M",
 					"default": "-99",
 					"unitCode": null,
 					"description": null,
 					"image": ["image1.jpg", "image2.png"]
 				},
 				{
-					"key": "RR",
+					"code": "RR",
 					"default": "-99",
 					"unitCode": null,
 					"description": null,

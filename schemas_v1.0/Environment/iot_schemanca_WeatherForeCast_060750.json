@@ -1,0 +1,326 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "$id": "/properties/id",
+      "type": "string",
+      "title": "The Id Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "LEVENS-WeatherForecast-060750-2017-12-01T01:00:00"
+      ]
+    },
+    "type": {
+      "$id": "/properties/type",
+      "type": "string",
+      "title": "The Type Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "WeatherForecast"
+      ]
+    },
+    "address": {
+      "$id": "/properties/address",
+      "type": "object",
+      "properties": {
+        "postalCode": {
+          "$id": "/properties/address/properties/postalCode",
+          "type": "string",
+          "title": "The Postalcode Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "06670"
+          ]
+        },
+        "addressLocality": {
+          "$id": "/properties/address/properties/addressLocality",
+          "type": "string",
+          "title": "The Addresslocality Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Levens"
+          ]
+        },
+        "addressRegion": {
+          "$id": "/properties/address/properties/addressRegion",
+          "type": "string",
+          "title": "The Addressregion Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Alpes Maritimes"
+          ]
+        },
+        "addressCountry": {
+          "$id": "/properties/address/properties/addressCountry",
+          "type": "string",
+          "title": "The Addresscountry Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "France"
+          ]
+        },
+        "streetAddress": {
+          "$id": "/properties/address/properties/streetAddress",
+          "type": "string",
+          "title": "The Streetaddress Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Chemin de la Môle"
+          ]
+        }
+      }
+    },
+    "location": {
+      "$id": "/properties/location",
+      "type": "object",
+      "properties": {
+        "type": {
+          "$id": "/properties/location/properties/type",
+          "type": "string",
+          "title": "The Type Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Point"
+          ]
+        },
+        "coordinates": {
+          "$id": "/properties/location/properties/coordinates",
+          "type": "array",
+          "items": {
+            "$id": "/properties/location/properties/coordinates/items",
+            "type": "number",
+            "title": "The 0 Schema.",
+            "description": "An explanation about the purpose of this instance.",
+            "default": 0,
+            "examples": [
+              7.210000038146973
+            ]
+          }
+        }
+      }
+    },
+    "refDevice": {
+      "$id": "/properties/refDevice",
+      "type": "null",
+      "title": "The Refdevice Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "refPointOfInterest": {
+      "$id": "/properties/refPointOfInterest",
+      "type": "null",
+      "title": "The Refpointofinterest Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "weatherType": {
+      "$id": "/properties/weatherType",
+      "type": "string",
+      "title": "The Weathertype Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "CODE PICTO"
+      ]
+    },
+    "dataProvider": {
+      "$id": "/properties/dataProvider",
+      "type": "null",
+      "title": "The Dataprovider Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "dateIssued": {
+      "$id": "/properties/dateIssued",
+      "type": "string",
+      "title": "The Dateissued Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2016-12-01T10:40:01.00Z"
+      ]
+    },
+    "dateRetrieved": {
+      "$id": "/properties/dateRetrieved",
+      "type": "string",
+      "title": "The Dateretrieved Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2016-12-01T12:57:24.00Z"
+      ]
+    },
+    "dayMaximum": {
+      "$id": "/properties/dayMaximum",
+      "type": "object",
+      "properties": {
+        "feelsLikeTemperature": {
+          "$id": "/properties/dayMaximum/properties/feelsLikeTemperature",
+          "type": "null",
+          "title": "The Feelsliketemperature Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "temperature": {
+          "$id": "/properties/dayMaximum/properties/temperature",
+          "type": "integer",
+          "title": "The Temperature Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            7
+          ]
+        },
+        "relativeHumidity": {
+          "$id": "/properties/dayMaximum/properties/relativeHumidity",
+          "type": "integer",
+          "title": "The Relativehumidity Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            40
+          ]
+        }
+      }
+    },
+    "dayMinimum": {
+      "$id": "/properties/dayMinimum",
+      "type": "object",
+      "properties": {
+        "feelsLikeTemperature": {
+          "$id": "/properties/dayMinimum/properties/feelsLikeTemperature",
+          "type": "null",
+          "title": "The Feelsliketemperature Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": null,
+          "examples": [
+            null
+          ]
+        },
+        "temperature": {
+          "$id": "/properties/dayMinimum/properties/temperature",
+          "type": "integer",
+          "title": "The Temperature Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            16
+          ]
+        },
+        "relativeHumidity": {
+          "$id": "/properties/dayMinimum/properties/relativeHumidity",
+          "type": "integer",
+          "title": "The Relativehumidity Schema.",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            90
+          ]
+        }
+      }
+    },
+    "precipitationProbability": {
+      "$id": "/properties/precipitationProbability",
+      "type": "integer",
+      "title": "The Precipitationprobability Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "seaTemperature": {
+      "$id": "/properties/seaTemperature",
+      "type": "null",
+      "title": "The Seatemperature Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "source": {
+      "$id": "/properties/source",
+      "type": "string",
+      "title": "The Source Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "http://www.aemet.es/xml/municipios/localidad_46250.xml"
+      ]
+    },
+    "validFrom": {
+      "$id": "/properties/validFrom",
+      "type": "string",
+      "title": "The Validfrom Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-12-01T01:00:00.00Z"
+      ]
+    },
+    "validTo": {
+      "$id": "/properties/validTo",
+      "type": "string",
+      "title": "The Validto Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2017-12-01T02:00:00.00Z"
+      ]
+    },
+    "validity": {
+      "$id": "/properties/validity",
+      "type": "string",
+      "title": "The Validity Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "201712042200"
+      ]
+    },
+    "windDirection": {
+      "$id": "/properties/windDirection",
+      "type": "null",
+      "title": "The Winddirection Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    },
+    "windSpeed": {
+      "$id": "/properties/windSpeed",
+      "type": "null",
+      "title": "The Windspeed Schema.",
+      "description": "An explanation about the purpose of this instance.",
+      "default": null,
+      "examples": [
+        null
+      ]
+    }
+  }
+}
