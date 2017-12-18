@@ -1,444 +1,446 @@
 {
-  "definitions": {},
-  "$schema": "http://json-schema.org/draft-06/schema#",
-  "$id": "http://example.com/example.json",
-  "type": "object",
-  "properties": {
-    "id": {
-      "$id": "/properties/id",
-      "type": "string",
-      "title": "The Id Schema.",
+	"definitions": {
+		
+	},
+	"$schema": "http://json-schema.org/draft-06/schema#",
+	"$id": "http://example.com/example.json",
+	"type": "object",
+	"properties": {
+		"id": {
+			"$id": "/properties/id",
+			"type": "string",
+			"title": "The Id Schema.",
 			"description": "The id of entity",
-      "default": "",
-      "examples": [
-        "LEVENS-WeatherObserved-060750-2017-12-01T01:00:00"
-      ]
-    },
-    "type": {
-      "$id": "/properties/type",
-      "type": "string",
-      "title": "The Type Schema.",
+			"default": "",
+			"examples": [
+				"LEVENS-WeatherObserved-060750-2017-12-01T01:00:00"
+			]
+		},
+		"type": {
+			"$id": "/properties/type",
+			"type": "string",
+			"title": "The Type Schema.",
 			"description": "The type of entity",
-      "default": "",
-      "examples": [
-        "WeatherObserved"
-      ]
-    },
-    "name": {
-      "$id": "/properties/name",
-      "type": "string",
-      "title": "The Name Schema.",
+			"default": "",
+			"examples": [
+				"WeatherObserved"
+			]
+		},
+		"name": {
+			"$id": "/properties/name",
+			"type": "string",
+			"title": "The Name Schema.",
 			"description": "The name of entity",
-      "default": "",
-      "examples": [
-        "LEVENS"
-      ]
-    },
-    "stationName": {
-      "$id": "/properties/stationName",
-      "type": "string",
-      "title": "The Stationname Schema.",
+			"default": "",
+			"examples": [
+				"LEVENS"
+			]
+		},
+		"stationName": {
+			"$id": "/properties/stationName",
+			"type": "string",
+			"title": "The Stationname Schema.",
 			"description": "The stationName of entity",
-      "default": "",
-      "examples": [
-        "LEVENS STATION"
-      ]
-    },
-    "stationCode": {
-      "$id": "/properties/stationCode",
-      "type": "string",
-      "title": "The Stationcode Schema.",
+			"default": "",
+			"examples": [
+				"LEVENS STATION"
+			]
+		},
+		"stationCode": {
+			"$id": "/properties/stationCode",
+			"type": "string",
+			"title": "The Stationcode Schema.",
 			"description": "The stationCode of entity",
-      "default": "",
-      "examples": [
-        "060750"
-      ]
-    },
-    "address": {
-      "$id": "/properties/address",
-      "type": "object",
-      "properties": {
-        "postalCode": {
-          "$id": "/properties/address/properties/postalCode",
-          "type": "string",
-          "title": "The Postalcode Schema.",
-			"description": "The postalCode of entity",
-          "default": "",
-          "examples": [
-            "06670"
-          ]
-        },
-        "addressLocality": {
-          "$id": "/properties/address/properties/addressLocality",
-          "type": "string",
-          "title": "The Addresslocality Schema.",
-			"description": "The addressLocality of entity",
-          "default": "",
-          "examples": [
-            "Levens"
-          ]
-        },
-        "addressRegion": {
-          "$id": "/properties/address/properties/addressRegion",
-          "type": "string",
-          "title": "The Addressregion Schema.",
-			"description": "The addressRegion of entity",
-          "default": "",
-          "examples": [
-            "Alpes Maritimes"
-          ]
-        },
-        "addressCountry": {
-          "$id": "/properties/address/properties/addressCountry",
-          "type": "string",
-          "title": "The Addresscountry Schema.",
-			"description": "The addressCountry of entity",
-          "default": "",
-          "examples": [
-            "France"
-          ]
-        },
-        "streetAddress": {
-          "$id": "/properties/address/properties/streetAddress",
-          "type": "string",
-          "title": "The Streetaddress Schema.",
-			"description": "The streetAddress of entity",
-          "default": "",
-          "examples": [
-            "Chemin de la Môle"
-          ]
-        }
-      }
-    },
-    "location": {
-      "$id": "/properties/location",
-      "type": "object",
-      "properties": {
-        "type": {
-          "$id": "/properties/location/properties/type",
-          "type": "string",
-          "title": "The Type Schema.",
-			"description": "The location of entity",
-          "default": "",
-          "examples": [
-            "Point"
-          ]
-        },
-        "coordinates": {
-          "$id": "/properties/location/properties/coordinates",
-          "type": "array",
-          "items": {
-            "$id": "/properties/location/properties/coordinates/items",
-            "type": "number",
-            "title": "The 0 Schema.",
-			"description": "The coordinates of entity",
-            "default": 0,
-            "examples": [
-              7.210000038146973
-            ]
-          }
-        }
-      }
-    },
-    "dateModified": {
-      "$id": "/properties/dateModified",
-      "type": "string",
-      "title": "The Datemodified Schema.",
+			"default": "",
+			"examples": [
+				"060750"
+			]
+		},
+		"address": {
+			"$id": "/properties/address",
+			"type": "object",
+			"properties": {
+				"postalCode": {
+					"$id": "/properties/address/properties/postalCode",
+					"type": "string",
+					"title": "The Postalcode Schema.",
+					"description": "The postalCode of entity",
+					"default": "",
+					"examples": [
+						"06670"
+					]
+				},
+				"addressLocality": {
+					"$id": "/properties/address/properties/addressLocality",
+					"type": "string",
+					"title": "The Addresslocality Schema.",
+					"description": "The addressLocality of entity",
+					"default": "",
+					"examples": [
+						"Levens"
+					]
+				},
+				"addressRegion": {
+					"$id": "/properties/address/properties/addressRegion",
+					"type": "string",
+					"title": "The Addressregion Schema.",
+					"description": "The addressRegion of entity",
+					"default": "",
+					"examples": [
+						"Alpes Maritimes"
+					]
+				},
+				"addressCountry": {
+					"$id": "/properties/address/properties/addressCountry",
+					"type": "string",
+					"title": "The Addresscountry Schema.",
+					"description": "The addressCountry of entity",
+					"default": "",
+					"examples": [
+						"France"
+					]
+				},
+				"streetAddress": {
+					"$id": "/properties/address/properties/streetAddress",
+					"type": "string",
+					"title": "The Streetaddress Schema.",
+					"description": "The streetAddress of entity",
+					"default": "",
+					"examples": [
+						"Chemin de la Môle"
+					]
+				}
+			}
+		},
+		"location": {
+			"$id": "/properties/location",
+			"type": "object",
+			"properties": {
+				"type": {
+					"$id": "/properties/location/properties/type",
+					"type": "string",
+					"title": "The Type Schema.",
+					"description": "The location of entity",
+					"default": "",
+					"examples": [
+						"Point"
+					]
+				},
+				"coordinates": {
+					"$id": "/properties/location/properties/coordinates",
+					"type": "array",
+					"items": {
+						"$id": "/properties/location/properties/coordinates/items",
+						"type": "number",
+						"title": "The 0 Schema.",
+						"description": "The coordinates of entity",
+						"default": 0,
+						"examples": [
+							7.210000038146973
+						]
+					}
+				}
+			}
+		},
+		"dateModified": {
+			"$id": "/properties/dateModified",
+			"type": "string",
+			"title": "The Datemodified Schema.",
 			"description": "The dateModified of entity",
-      "default": "",
-      "examples": [
-        "2017-12-01T01:00:00.00Z"
-      ]
-    },
-    "dateObserved": {
-      "$id": "/properties/dateObserved",
-      "type": "string",
-      "title": "The Dateobserved Schema.",
+			"default": "",
+			"examples": [
+				"2017-12-01T01:00:00.00Z"
+			]
+		},
+		"dateObserved": {
+			"$id": "/properties/dateObserved",
+			"type": "string",
+			"title": "The Dateobserved Schema.",
 			"description": "The dateObserved of entity",
-      "default": "",
-      "examples": [
-        "2016-11-30T07:00:00.00Z"
-      ]
-    },
-    "source": {
-      "$id": "/properties/source",
-      "type": "string",
-      "title": "The Source Schema.",
+			"default": "",
+			"examples": [
+				"2016-11-30T07:00:00.00Z"
+			]
+		},
+		"source": {
+			"$id": "/properties/source",
+			"type": "string",
+			"title": "The Source Schema.",
 			"description": "The source of entity",
-      "default": "",
-      "examples": [
-        "http://www.meteo.fr/partenaire/xml/NICE_CA_031962/xml/Flux_NiceCA.xml"
-      ]
-    },
-    "refDevice": {
-      "$id": "/properties/refDevice",
-      "type": "null",
-      "title": "The Refdevice Schema.",
+			"default": "",
+			"examples": [
+				"http://www.meteo.fr/partenaire/xml/NICE_CA_031962/xml/Flux_NiceCA.xml"
+			]
+		},
+		"refDevice": {
+			"$id": "/properties/refDevice",
+			"type": "null",
+			"title": "The Refdevice Schema.",
 			"description": "The refDevice of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "refPointOfInterest": {
-      "$id": "/properties/refPointOfInterest",
-      "type": "null",
-      "title": "The Refpointofinterest Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"refPointOfInterest": {
+			"$id": "/properties/refPointOfInterest",
+			"type": "null",
+			"title": "The Refpointofinterest Schema.",
 			"description": "The refPointOfInterest of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "weatherType": {
-      "$id": "/properties/weatherType",
-      "type": "string",
-      "title": "The Weathertype Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"weatherType": {
+			"$id": "/properties/weatherType",
+			"type": "string",
+			"title": "The Weathertype Schema.",
 			"description": "The weatherType of entity",
-      "default": "",
-      "examples": [
-        "CODE PICTO"
-      ]
-    },
-    "temperature": {
-      "$id": "/properties/temperature",
-      "type": "integer",
-      "title": "The Temperature Schema.",
+			"default": "",
+			"examples": [
+				"CODE PICTO"
+			]
+		},
+		"temperature": {
+			"$id": "/properties/temperature",
+			"type": "integer",
+			"title": "The Temperature Schema.",
 			"description": "The temperature of entity",
-      "default": 0,
-      "examples": [
-        -1
-      ]
-    },
-    "windDirection": {
-      "$id": "/properties/windDirection",
-      "type": "array",
-      "items": {
-        "$id": "/properties/windDirection/items",
-        "type": "object",
-        "properties": {
-          "distance": {
-            "$id": "/properties/windDirection/items/properties/distance",
-            "type": "string",
-            "title": "The Distance Schema.",
-			"description": "The minimal distance of entity",
-            "default": "",
-            "examples": [
-              "1500"
-            ]
-          },
-          "wind": {
-            "$id": "/properties/windDirection/items/properties/wind",
-            "type": "integer",
-            "title": "The Wind Schema.",
-			"description": "The wind of entity",
-            "default": 0,
-            "examples": [
-              355
-            ]
-          }
-        }
-      }
-    },
-    "windSpeed": {
-      "$id": "/properties/windSpeed",
-      "type": "array",
-      "items": {
-        "$id": "/properties/windSpeed/items",
-        "type": "object",
-        "properties": {
-          "distance": {
-            "$id": "/properties/windSpeed/items/properties/distance",
-            "type": "string",
-            "title": "The Distance Schema.",
-			"description": "The distance of entity",
-            "default": "",
-            "examples": [
-              "1500"
-            ]
-          },
-          "wind": {
-            "$id": "/properties/windSpeed/items/properties/wind",
-            "type": "integer",
-            "title": "The Wind Schema.",
-			"description": "The wind of entity",
-            "default": 0,
-            "examples": [
-              5
-            ]
-          }
-        }
-      }
-    },
-    "windGust": {
-      "$id": "/properties/windGust",
-      "type": "integer",
-      "title": "The Windgust Schema.",
+			"default": 0,
+			"examples": [
+				-1
+			]
+		},
+		"windDirection": {
+			"$id": "/properties/windDirection",
+			"type": "array",
+			"items": {
+				"$id": "/properties/windDirection/items",
+				"type": "object",
+				"properties": {
+					"distance": {
+						"$id": "/properties/windDirection/items/properties/distance",
+						"type": "string",
+						"title": "The Distance Schema.",
+						"description": "The minimal distance of entity",
+						"default": "",
+						"examples": [
+							"1500"
+						]
+					},
+					"wind": {
+						"$id": "/properties/windDirection/items/properties/wind",
+						"type": "integer",
+						"title": "The Wind Schema.",
+						"description": "The wind of entity",
+						"default": 0,
+						"examples": [
+							355
+						]
+					}
+				}
+			}
+		},
+		"windSpeed": {
+			"$id": "/properties/windSpeed",
+			"type": "array",
+			"items": {
+				"$id": "/properties/windSpeed/items",
+				"type": "object",
+				"properties": {
+					"distance": {
+						"$id": "/properties/windSpeed/items/properties/distance",
+						"type": "string",
+						"title": "The Distance Schema.",
+						"description": "The distance of entity",
+						"default": "",
+						"examples": [
+							"1500"
+						]
+					},
+					"wind": {
+						"$id": "/properties/windSpeed/items/properties/wind",
+						"type": "integer",
+						"title": "The Wind Schema.",
+						"description": "The wind of entity",
+						"default": 0,
+						"examples": [
+							5
+						]
+					}
+				}
+			}
+		},
+		"windGust": {
+			"$id": "/properties/windGust",
+			"type": "integer",
+			"title": "The Windgust Schema.",
 			"description": "The windGust of entity",
-      "default": 0,
-      "examples": [
-        0
-      ]
-    },
-    "relativeHumidity": {
-      "$id": "/properties/relativeHumidity",
-      "type": "integer",
-      "title": "The Relativehumidity Schema.",
+			"default": 0,
+			"examples": [
+				0
+			]
+		},
+		"relativeHumidity": {
+			"$id": "/properties/relativeHumidity",
+			"type": "integer",
+			"title": "The Relativehumidity Schema.",
 			"description": "The relativeHumidity of entity",
-      "default": 0,
-      "examples": [
-        50
-      ]
-    },
-    "isoElevation": {
-      "$id": "/properties/isoElevation",
-      "type": "integer",
-      "title": "The Isoelevation Schema.",
+			"default": 0,
+			"examples": [
+				50
+			]
+		},
+		"isoElevation": {
+			"$id": "/properties/isoElevation",
+			"type": "integer",
+			"title": "The Isoelevation Schema.",
 			"description": "The isoElevation of entity",
-      "default": 0,
-      "examples": [
-        15
-      ]
-    },
-    "limitRainSnow": {
-      "$id": "/properties/limitRainSnow",
-      "type": "integer",
-      "title": "The Limitrainsnow Schema.",
+			"default": 0,
+			"examples": [
+				15
+			]
+		},
+		"limitRainSnow": {
+			"$id": "/properties/limitRainSnow",
+			"type": "integer",
+			"title": "The Limitrainsnow Schema.",
 			"description": "The limitRainSnow of entity",
-      "default": 0,
-      "examples": [
-        51
-      ]
-    },
-    "seaStatus": {
-      "$id": "/properties/seaStatus",
-      "type": "integer",
-      "title": "The Seastatus Schema.",
+			"default": 0,
+			"examples": [
+				51
+			]
+		},
+		"seaStatus": {
+			"$id": "/properties/seaStatus",
+			"type": "integer",
+			"title": "The Seastatus Schema.",
 			"description": "The seaStatus of entity",
-      "default": 0,
-      "examples": [
-        1
-      ]
-    },
-    "swellDirection": {
-      "$id": "/properties/swellDirection",
-      "type": "null",
-      "title": "The Swelldirection Schema.",
+			"default": 0,
+			"examples": [
+				1
+			]
+		},
+		"swellDirection": {
+			"$id": "/properties/swellDirection",
+			"type": "null",
+			"title": "The Swelldirection Schema.",
 			"description": "The swellDirection of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "swellHeight": {
-      "$id": "/properties/swellHeight",
-      "type": "null",
-      "title": "The Swellheight Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"swellHeight": {
+			"$id": "/properties/swellHeight",
+			"type": "null",
+			"title": "The Swellheight Schema.",
 			"description": "The swellHeight of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "nebulosity": {
-      "$id": "/properties/nebulosity",
-      "type": "integer",
-      "title": "The Nebulosity Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"nebulosity": {
+			"$id": "/properties/nebulosity",
+			"type": "integer",
+			"title": "The Nebulosity Schema.",
 			"description": "The nebulosity of entity",
-      "default": 0,
-      "examples": [
-        0
-      ]
-    },
-    "cloudBase": {
-      "$id": "/properties/cloudBase",
-      "type": "null",
-      "title": "The Cloudbase Schema.",
+			"default": 0,
+			"examples": [
+				0
+			]
+		},
+		"cloudBase": {
+			"$id": "/properties/cloudBase",
+			"type": "null",
+			"title": "The Cloudbase Schema.",
 			"description": "The cloudBase of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "cloudTop": {
-      "$id": "/properties/cloudTop",
-      "type": "null",
-      "title": "The Cloudtop Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"cloudTop": {
+			"$id": "/properties/cloudTop",
+			"type": "null",
+			"title": "The Cloudtop Schema.",
 			"description": "The cloudTop of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "snowTickness": {
-      "$id": "/properties/snowTickness",
-      "type": "null",
-      "title": "The Snowtickness Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"snowTickness": {
+			"$id": "/properties/snowTickness",
+			"type": "null",
+			"title": "The Snowtickness Schema.",
 			"description": "The snowTickness of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "visibility": {
-      "$id": "/properties/visibility",
-      "type": "null",
-      "title": "The Visibility Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"visibility": {
+			"$id": "/properties/visibility",
+			"type": "null",
+			"title": "The Visibility Schema.",
 			"description": "The visibility of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "pressureTendency": {
-      "$id": "/properties/pressureTendency",
-      "type": "null",
-      "title": "The Pressuretendency Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"pressureTendency": {
+			"$id": "/properties/pressureTendency",
+			"type": "null",
+			"title": "The Pressuretendency Schema.",
 			"description": "The pressureTendency of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "precipitation": {
-      "$id": "/properties/precipitation",
-      "type": "integer",
-      "title": "The Precipitation Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"precipitation": {
+			"$id": "/properties/precipitation",
+			"type": "integer",
+			"title": "The Precipitation Schema.",
 			"description": "The precipitation of entity",
-      "default": 0,
-      "examples": [
-        0
-      ]
-    },
-    "barometricPressure": {
-      "$id": "/properties/barometricPressure",
-      "type": "number",
-      "title": "The Barometricpressure Schema.",
+			"default": 0,
+			"examples": [
+				0
+			]
+		},
+		"barometricPressure": {
+			"$id": "/properties/barometricPressure",
+			"type": "number",
+			"title": "The Barometricpressure Schema.",
 			"description": "The barometricPressure of entity",
-      "default": 0,
-      "examples": [
-        938.9000244140625
-      ]
-    },
-    "solarRadiation": {
-      "$id": "/properties/solarRadiation",
-      "type": "null",
-      "title": "The Solarradiation Schema.",
+			"default": 0,
+			"examples": [
+				938.9000244140625
+			]
+		},
+		"solarRadiation": {
+			"$id": "/properties/solarRadiation",
+			"type": "null",
+			"title": "The Solarradiation Schema.",
 			"description": "The solarRadiation of entity",
-      "default": null,
-      "examples": [
-        null
-      ]
-    },
-    "dataProvider": {
-      "$id": "/properties/dataProvider",
-      "type": "string",
-      "title": "The Dataprovider Schema.",
+			"default": null,
+			"examples": [
+				null
+			]
+		},
+		"dataProvider": {
+			"$id": "/properties/dataProvider",
+			"type": "string",
+			"title": "The Dataprovider Schema.",
 			"description": "The dataProvider of entity",
-      "default": "",
-      "examples": [
-        "TEF"
-      ]
-    }
-  }
+			"default": "",
+			"examples": [
+				"TEF"
+			]
+		}
+	}
 }
